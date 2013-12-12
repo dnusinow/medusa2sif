@@ -1,0 +1,996 @@
+*edges
+RPS8	SSR4	i 5	c 0.13
+RPS8	SSR4	i 7	c 0.9
+RPL35	RPS13	i 5	c 0.954
+RPL35	RPS13	i 6	c 0.352
+RPL35	RPS13	i 7	c 0.9
+RPL35	RPS13	i 8	c 0.34
+EIF3F	RPL30	i 5	c 0.56
+EIF3F	RPL30	i 7	c 0.9
+EIF3F	RPL30	i 8	c 0.144
+RPS13	RPS5	i 5	c 0.943
+RPS13	RPS5	i 6	c 0.96
+RPS13	RPS5	i 7	c 0.9
+RPS13	RPS5	i 8	c 0.379
+RPL31	RPS25	i 5	c 0.869
+RPL31	RPS25	i 8	c 0.309
+RPLP2	RPS25	i 5	c 0.939
+RPLP2	RPS25	i 8	c 0.102
+PPP6C	TIPRL	i 6	c 0.619
+PPP6C	TIPRL	i 8	c 0.763
+PSMA5	PSMB7	i 3	c 0.206
+PSMA5	PSMB7	i 4	c 0.689
+PSMA5	PSMB7	i 5	c 0.598
+PSMA5	PSMB7	i 6	c 0.437
+PSMA5	PSMB7	i 7	c 0.9
+PSMA5	PSMB7	i 8	c 0.336
+TBL1XR1	MED29	i 6	c 0.1
+TBL1XR1	MED29	i 7	c 0.9
+RBM8A	RPL30	i 5	c 0.255
+RBM8A	RPL30	i 7	c 0.9
+RPS8	EIF3F	i 5	c 0.455
+RPS8	EIF3F	i 7	c 0.9
+RPS8	EIF3F	i 8	c 0.064
+PSMA5	PSMD3	i 5	c 0.428
+PSMA5	PSMD3	i 6	c 0.587
+PSMA5	PSMD3	i 7	c 0.9
+PSMA5	PSMD3	i 8	c 0.125
+RPLP2	SSR4	i 5	c 0.214
+RPLP2	SSR4	i 7	c 0.9
+RPLP2	RPL35	i 3	c 0.291
+RPLP2	RPL35	i 5	c 0.863
+RPLP2	RPL35	i 6	c 0.343
+RPLP2	RPL35	i 7	c 0.9
+RPLP2	RPL35	i 8	c 0.222
+RPLP2	RPS5	i 5	c 0.827
+RPLP2	RPS5	i 6	c 0.369
+RPLP2	RPS5	i 7	c 0.9
+RPLP2	RPS5	i 8	c 0.599
+RPL31	SSR4	i 5	c 0.111
+RPL31	SSR4	i 7	c 0.9
+RPS8	ETF1	i 5	c 0.448
+RPS8	ETF1	i 7	c 0.9
+RPS8	ETF1	i 8	c 0.078
+EIF3F	RPS15	i 5	c 0.672
+EIF3F	RPS15	i 7	c 0.9
+EIF3F	RPS15	i 8	c 0.123
+PPP1CA	TOX4	i 6	c 0.502
+PPP1CA	TOX4	i 7	c 0.9
+RPL31	RPLP2	i 5	c 0.883
+RPL31	RPLP2	i 6	c 0.22
+RPL31	RPLP2	i 7	c 0.9
+RPL31	RPLP2	i 8	c 0.26
+ANAPC7	PSMD1	i 7	c 0.9
+ANAPC7	PSMD1	i 8	c 0.1
+DDX6	LSM7	i 6	c 0.08
+DDX6	LSM7	i 7	c 0.9
+DDX6	LSM7	i 8	c 0.319
+RPS8	RPLP2	i 5	c 0.921
+RPS8	RPLP2	i 7	c 0.9
+RPS8	RPLP2	i 8	c 0.244
+RPS8	RPS5	i 5	c 0.903
+RPS8	RPS5	i 6	c 0.794
+RPS8	RPS5	i 7	c 0.9
+RPS8	RPS5	i 8	c 0.461
+SRP14	RPS15	i 5	c 0.071
+SRP14	RPS15	i 7	c 0.9
+MEAF6	C20orf20	i 6	c 0.818
+MEAF6	C20orf20	i 7	c 0.36
+MEAF6	C20orf20	i 8	c 0.341
+RBM8A	RPL35	i 5	c 0.235
+RBM8A	RPL35	i 7	c 0.9
+CSTF2	HNRNPF	i 7	c 0.9
+CSTF2	HNRNPF	i 8	c 0.29
+MRPL12	RPS15	i 1	c 0.272
+MRPL12	RPS15	i 5	c 0.529
+MRPL12	RPS15	i 8	c 0.796
+RPS25	RPS13	i 5	c 0.966
+RPS25	RPS13	i 6	c 0.375
+RPS25	RPS13	i 8	c 0.274
+RPL30	SRP14	i 5	c 0.377
+RPL30	SRP14	i 7	c 0.9
+RPL30	SRP14	i 8	c 0.161
+SSR4	RPS13	i 5	c 0.195
+SSR4	RPS13	i 7	c 0.9
+SNRNP40	SF3A2	i 5	c 0.148
+SNRNP40	SF3A2	i 7	c 0.9
+GSPT1	ETF1	i 5	c 0.372
+GSPT1	ETF1	i 6	c 0.995
+GSPT1	ETF1	i 8	c 0.903
+RPS8	RPS15	i 5	c 0.89
+RPS8	RPS15	i 6	c 0.416
+RPS8	RPS15	i 7	c 0.9
+RPS8	RPS15	i 8	c 0.466
+ARFIP1	ARF5	i 6	c 0.62
+ARFIP1	ARF5	i 8	c 0.939
+EIF3F	RPS5	i 5	c 0.618
+EIF3F	RPS5	i 7	c 0.9
+EIF3F	RPS5	i 8	c 0.133
+RBM8A	U2AF1	i 5	c 0.196
+RBM8A	U2AF1	i 7	c 0.9
+RPL31	RPL37	i 5	c 0.877
+RPL31	RPL37	i 6	c 0.108
+RPL31	RPL37	i 7	c 0.9
+RPL31	RPL37	i 8	c 0.847
+RUVBL1	RBBP5	i 5	c 0.106
+RUVBL1	RBBP5	i 7	c 0.9
+RUVBL1	RBBP5	i 8	c 0.072
+ETF1	RPLP2	i 5	c 0.379
+ETF1	RPLP2	i 7	c 0.9
+RPL31	RPS5	i 5	c 0.75
+RPL31	RPS5	i 6	c 0.224
+RPL31	RPS5	i 7	c 0.9
+RPL31	RPS5	i 8	c 0.399
+PPP1CA	GPKOW	i 6	c 0.998
+GPS1	COPS7B	i 6	c 0.987
+GPS1	COPS7B	i 7	c 0.9
+GPS1	COPS7B	i 8	c 0.254
+ETF1	RPL37	i 5	c 0.428
+ETF1	RPL37	i 7	c 0.9
+DUT	DTYMK	i 1	c 0.085
+DUT	DTYMK	i 5	c 0.602
+DUT	DTYMK	i 7	c 0.9
+DUT	DTYMK	i 8	c 0.751
+MEAF6	RUVBL1	i 6	c 0.153
+MEAF6	RUVBL1	i 7	c 0.9
+MEAF6	RUVBL1	i 8	c 0.329
+SRP14	RPL35	i 5	c 0.407
+SRP14	RPL35	i 7	c 0.9
+RPS25	RPS5	i 5	c 0.893
+RPS25	RPS5	i 6	c 0.539
+RPS25	RPS5	i 8	c 0.22
+ANAPC7	PSMD3	i 5	c 0.094
+ANAPC7	PSMD3	i 7	c 0.9
+ANAPC7	PSMD3	i 8	c 0.076
+PSMB3	PSMA2	i 3	c 0.266
+PSMB3	PSMA2	i 5	c 0.652
+PSMB3	PSMA2	i 6	c 0.999
+PSMB3	PSMA2	i 7	c 0.9
+PSMB3	PSMA2	i 8	c 0.238
+SMNDC1	SF3A2	i 6	c 0.997
+SMNDC1	SF3A2	i 8	c 0.071
+ARFIP2	ARF5	i 6	c 0.845
+ARFIP2	ARF5	i 8	c 0.676
+SEC11C	SRP14	i 5	c 0.133
+SEC11C	SRP14	i 7	c 0.9
+PUF60	SF3A2	i 5	c 0.163
+PUF60	SF3A2	i 6	c 0.997
+RPLP2	RPS13	i 5	c 0.924
+RPLP2	RPS13	i 6	c 0.375
+RPLP2	RPS13	i 7	c 0.9
+RPLP2	RPS13	i 8	c 0.129
+SSR4	RPS5	i 5	c 0.668
+SSR4	RPS5	i 7	c 0.9
+RPL30	RPL37	i 1	c 0.412
+RPL30	RPL37	i 5	c 0.924
+RPL30	RPL37	i 6	c 0.524
+RPL30	RPL37	i 7	c 0.9
+RPL30	RPL37	i 8	c 0.844
+RPL37	RPS25	i 5	c 0.898
+RPL37	RPS25	i 8	c 0.341
+RPS8	RPS25	i 5	c 0.926
+RPS8	RPS25	i 6	c 0.176
+RPS8	RPS25	i 8	c 0.305
+C20orf20	YEATS4	i 6	c 0.818
+C20orf20	YEATS4	i 7	c 0.36
+C20orf20	YEATS4	i 8	c 0.466
+RPL37	RPS15	i 5	c 0.81
+RPL37	RPS15	i 7	c 0.9
+RPL37	RPS15	i 8	c 0.218
+RPL31	ETF1	i 5	c 0.188
+RPL31	ETF1	i 7	c 0.9
+RPL31	ETF1	i 8	c 0.2
+RPS8	SRP14	i 5	c 0.323
+RPS8	SRP14	i 7	c 0.9
+TBL1XR1	NFYB	i 5	c 0.124
+TBL1XR1	NFYB	i 7	c 0.9
+CAPZB	CAPZA2	i 5	c 0.252
+CAPZB	CAPZA2	i 6	c 0.725
+CAPZB	CAPZA2	i 7	c 0.9
+CAPZB	CAPZA2	i 8	c 0.89
+PRIM1	TYMS	i 5	c 0.883
+PRIM1	TYMS	i 8	c 0.271
+EIF3F	RPS13	i 5	c 0.508
+EIF3F	RPS13	i 7	c 0.9
+EIF3F	RPS13	i 8	c 0.089
+VPS36	CHMP2A	i 6	c 0.097
+VPS36	CHMP2A	i 7	c 0.9
+VPS36	CHMP2A	i 8	c 0.342
+ZNF207	SF3A2	i 6	c 0.944
+RPS8	RBM8A	i 5	c 0.238
+RPS8	RBM8A	i 7	c 0.9
+PCGF5	SCML2	i 7	c 0.9
+PCGF5	SCML2	i 8	c 0.197
+PSMA5	PSMB3	i 5	c 0.676
+PSMA5	PSMB3	i 6	c 0.708
+PSMA5	PSMB3	i 7	c 0.9
+PSMA5	PSMB3	i 8	c 0.424
+RPL31	RPS8	i 5	c 0.853
+RPL31	RPS8	i 7	c 0.9
+RPL31	RPS8	i 8	c 0.752
+RPLP2	RPL30	i 5	c 0.909
+RPLP2	RPL30	i 6	c 0.66
+RPLP2	RPL30	i 7	c 0.9
+RPLP2	RPL30	i 8	c 0.241
+HNRNPF	U2AF1	i 7	c 0.9
+HNRNPF	U2AF1	i 8	c 0.216
+RBM8A	RPLP2	i 5	c 0.235
+RBM8A	RPLP2	i 7	c 0.9
+PSMD1	PSMD3	i 5	c 0.721
+PSMD1	PSMD3	i 6	c 0.873
+PSMD1	PSMD3	i 7	c 0.9
+PSMD1	PSMD3	i 8	c 0.289
+CALM1	EDF1	i 6	c 0.621
+CALM1	EDF1	i 8	c 0.814
+U2AF1	SF3A2	i 5	c 0.2
+U2AF1	SF3A2	i 6	c 0.997
+U2AF1	SF3A2	i 7	c 0.9
+U2AF1	SF3A2	i 8	c 0.123
+PSMA5	PSMA2	i 3	c 0.4
+PSMA5	PSMA2	i 4	c 0.873
+PSMA5	PSMA2	i 5	c 0.766
+PSMA5	PSMA2	i 6	c 0.999
+PSMA5	PSMA2	i 7	c 0.9
+PSMA5	PSMA2	i 8	c 0.735
+PSMD1	PSMA2	i 5	c 0.418
+PSMD1	PSMA2	i 6	c 0.935
+PSMD1	PSMA2	i 7	c 0.9
+PSMD1	PSMA2	i 8	c 0.22
+RBBP4	PCGF5	i 7	c 0.9
+RBBP4	PCGF5	i 8	c 0.125
+RPL31	RBM8A	i 5	c 0.174
+RPL31	RBM8A	i 7	c 0.9
+PSMD3	PSMB7	i 5	c 0.191
+PSMD3	PSMB7	i 6	c 0.343
+PSMD3	PSMB7	i 7	c 0.9
+PSMD3	PSMB7	i 8	c 0.144
+SSR4	RPL37	i 5	c 0.064
+SSR4	RPL37	i 7	c 0.9
+SSR4	RPL37	i 8	c 0.092
+EIF3F	RPL35	i 5	c 0.627
+EIF3F	RPL35	i 7	c 0.9
+EIF3F	RPL35	i 8	c 0.088
+RPL31	RPL30	i 5	c 0.914
+RPL31	RPL30	i 6	c 0.424
+RPL31	RPL30	i 7	c 0.9
+RPL31	RPL30	i 8	c 0.831
+RBBP4	TFDP2	i 6	c 0.071
+RBBP4	TFDP2	i 7	c 0.9
+PPP2R4	PPP1CA	i 6	c 0.375
+PPP2R4	PPP1CA	i 7	c 0.72
+PPP2R4	PPP1CA	i 8	c 0.725
+PSMD3	PSMA2	i 5	c 0.409
+PSMD3	PSMA2	i 6	c 0.917
+PSMD3	PSMA2	i 7	c 0.9
+PSMD3	PSMA2	i 8	c 0.11
+PPP1CA	SF3A2	i 6	c 0.944
+RPL31	RPL35	i 5	c 0.9
+RPL31	RPL35	i 6	c 0.5
+RPL31	RPL35	i 7	c 0.9
+RPL31	RPL35	i 8	c 0.394
+VPS36	VPS37C	i 7	c 0.9
+VPS36	VPS37C	i 8	c 0.161
+ACER1	SGPP1	i 7	c 0.9
+ACER1	SGPP1	i 8	c 0.094
+DUT	TYMS	i 5	c 0.684
+DUT	TYMS	i 7	c 0.9
+DUT	TYMS	i 8	c 0.838
+PCGF5	CBX4	i 7	c 0.9
+PCGF5	CBX4	i 8	c 0.213
+EIF4A2	EIF3F	i 6	c 0.913
+EIF4A2	EIF3F	i 8	c 0.084
+EXOC5	RAB14	i 5	c 0.116
+EXOC5	RAB14	i 7	c 0.9
+CBX4	SCML2	i 7	c 0.9
+CBX4	SCML2	i 8	c 0.524
+RTF1	LEO1	i 6	c 0.934
+RTF1	LEO1	i 7	c 0.9
+RTF1	LEO1	i 8	c 0.752
+PCF11	U2AF1	i 7	c 0.9
+PCF11	U2AF1	i 8	c 0.084
+SSR4	RPL30	i 5	c 0.358
+SSR4	RPL30	i 7	c 0.9
+SSR4	RPL30	i 8	c 0.077
+RPL31	EIF3F	i 5	c 0.284
+RPL31	EIF3F	i 7	c 0.9
+RPL31	EIF3F	i 8	c 0.101
+RPL31	RPS13	i 5	c 0.891
+RPL31	RPS13	i 6	c 0.225
+RPL31	RPS13	i 7	c 0.9
+RPL31	RPS13	i 8	c 0.319
+RPS8	RPL37	i 5	c 0.813
+RPS8	RPL37	i 7	c 0.9
+RPS8	RPL37	i 8	c 0.69
+RBM8A	RPS13	i 5	c 0.274
+RBM8A	RPS13	i 7	c 0.9
+RBBP4	ZNF217	i 7	c 0.9
+RBBP4	ZNF217	i 8	c 0.116
+SRP14	RPS5	i 5	c 0.33
+SRP14	RPS5	i 7	c 0.9
+PSMB7	PSMA2	i 5	c 0.56
+PSMB7	PSMA2	i 6	c 0.999
+PSMB7	PSMA2	i 7	c 0.9
+PSMB7	PSMA2	i 8	c 0.2
+RUVBL1	YEATS4	i 5	c 0.119
+RUVBL1	YEATS4	i 6	c 0.839
+RUVBL1	YEATS4	i 7	c 0.9
+RUVBL1	YEATS4	i 8	c 0.303
+RBM8A	SF3A2	i 5	c 0.335
+RBM8A	SF3A2	i 7	c 0.9
+RBM17	SF3A2	i 5	c 0.069
+RBM17	SF3A2	i 6	c 0.997
+CSTF2	RBM8A	i 4	c 0.765
+CSTF2	RBM8A	i 5	c 0.175
+CSTF2	RBM8A	i 7	c 0.9
+CSTF2	PCF11	i 7	c 0.9
+CSTF2	PCF11	i 8	c 0.438
+RPL30	RPS15	i 5	c 0.838
+RPL30	RPS15	i 7	c 0.9
+RPL30	RPS15	i 8	c 0.341
+RPLP2	RPL37	i 5	c 0.853
+RPLP2	RPL37	i 6	c 0.157
+RPLP2	RPL37	i 7	c 0.9
+RPLP2	RPL37	i 8	c 0.62
+TAF11	TAF3	i 7	c 0.9
+TAF11	TAF3	i 8	c 0.201
+TYMS	DTYMK	i 5	c 0.83
+TYMS	DTYMK	i 7	c 0.9
+TYMS	DTYMK	i 8	c 0.908
+DEGS2	SGPP1	i 7	c 0.9
+DEGS2	SGPP1	i 8	c 0.087
+RPS8	RPS13	i 5	c 0.957
+RPS8	RPS13	i 6	c 0.92
+RPS8	RPS13	i 7	c 0.9
+RPS8	RPS13	i 8	c 0.43
+ETF1	RBM8A	i 5	c 0.269
+ETF1	RBM8A	i 6	c 0.585
+ETF1	RBM8A	i 7	c 0.9
+ETF1	RPL35	i 5	c 0.54
+ETF1	RPL35	i 7	c 0.9
+RBBP4	RUVBL1	i 5	c 0.272
+RBBP4	RUVBL1	i 7	c 0.9
+RBBP4	RUVBL1	i 8	c 0.122
+RPL31	SRP14	i 5	c 0.362
+RPL31	SRP14	i 7	c 0.9
+RPL30	RPS13	i 5	c 0.942
+RPL30	RPS13	i 6	c 0.672
+RPL30	RPS13	i 7	c 0.9
+RPL30	RPS13	i 8	c 0.431
+RBM8A	RPS15	i 5	c 0.424
+RBM8A	RPS15	i 7	c 0.9
+RBM8A	RPS15	i 8	c 0.109
+PSMD1	PSMB7	i 5	c 0.365
+PSMD1	PSMB7	i 6	c 0.783
+PSMD1	PSMB7	i 7	c 0.9
+PSMD1	PSMB7	i 8	c 0.127
+PSMD1	PSMB3	i 5	c 0.45
+PSMD1	PSMB3	i 6	c 0.66
+PSMD1	PSMB3	i 7	c 0.9
+PSMD1	PSMB3	i 8	c 0.284
+RPS15	RPS5	i 1	c 0.58
+RPS15	RPS5	i 5	c 0.867
+RPS15	RPS5	i 6	c 0.837
+RPS15	RPS5	i 7	c 0.9
+RPS15	RPS5	i 8	c 0.575
+ATP6V1A	ATP5B	i 1	c 0.292
+ATP6V1A	ATP5B	i 4	c 0.697
+ATP6V1A	ATP5B	i 5	c 0.288
+ATP6V1A	ATP5B	i 6	c 0.512
+ATP6V1A	ATP5B	i 7	c 0.72
+ATP6V1A	ATP5B	i 8	c 0.462
+RPL37	RPL35	i 5	c 0.915
+RPL37	RPL35	i 6	c 0.236
+RPL37	RPL35	i 7	c 0.9
+RPL37	RPL35	i 8	c 0.341
+SSR4	SEC11C	i 5	c 0.264
+SSR4	SEC11C	i 7	c 0.9
+SSR4	SEC11C	i 8	c 0.115
+CHMP2A	VPS37C	i 7	c 0.9
+CHMP2A	VPS37C	i 8	c 0.275
+TBL1XR1	TBL1X	i 3	c 0.525
+TBL1XR1	TBL1X	i 4	c 0.971
+TBL1XR1	TBL1X	i 6	c 0.961
+TBL1XR1	TBL1X	i 7	c 0.9
+TBL1XR1	TBL1X	i 8	c 0.541
+RPL35	RPS15	i 1	c 0.568
+RPL35	RPS15	i 5	c 0.924
+RPL35	RPS15	i 6	c 0.346
+RPL35	RPS15	i 7	c 0.9
+RPL35	RPS15	i 8	c 0.421
+PSMB7	PSMB3	i 3	c 0.459
+PSMB7	PSMB3	i 4	c 0.686
+PSMB7	PSMB3	i 5	c 0.504
+PSMB7	PSMB3	i 6	c 0.915
+PSMB7	PSMB3	i 7	c 0.9
+PSMB7	PSMB3	i 8	c 0.289
+SSR4	RPL35	i 5	c 0.338
+SSR4	RPL35	i 7	c 0.9
+EIF3F	RPL37	i 5	c 0.428
+EIF3F	RPL37	i 7	c 0.9
+RBBP4	CBX4	i 7	c 0.9
+RBBP4	CBX4	i 8	c 0.22
+POLD2	PRIM1	i 5	c 0.451
+POLD2	PRIM1	i 7	c 0.9
+POLD2	PRIM1	i 8	c 0.128
+RPL31	RPS15	i 5	c 0.752
+RPL31	RPS15	i 6	c 0.223
+RPL31	RPS15	i 7	c 0.9
+RPL31	RPS15	i 8	c 0.374
+ETF1	RPS15	i 5	c 0.676
+ETF1	RPS15	i 7	c 0.9
+ETF1	RPS15	i 8	c 0.136
+HNRNPF	PCF11	i 7	c 0.9
+HNRNPF	PCF11	i 8	c 0.133
+DHX15	SF3A2	i 6	c 0.997
+DHX15	SF3A2	i 8	c 0.239
+PCF11	CPSF4	i 7	c 0.9
+PCF11	CPSF4	i 8	c 0.229
+DEGS2	ACER1	i 7	c 0.9
+DEGS2	ACER1	i 8	c 0.167
+C20orf20	RUVBL1	i 5	c 0.149
+C20orf20	RUVBL1	i 6	c 0.897
+C20orf20	RUVBL1	i 7	c 0.36
+RPL35	RPS5	i 5	c 0.954
+RPL35	RPS5	i 6	c 0.348
+RPL35	RPS5	i 7	c 0.9
+RPL35	RPS5	i 8	c 0.137
+DDX3Y	UTY	i 5	c 0.909
+DDX3Y	UTY	i 8	c 0.66
+RPL30	RPS25	i 5	c 0.933
+RPL30	RPS25	i 6	c 0.228
+RPL30	RPS25	i 8	c 0.163
+RPLP2	SRP14	i 5	c 0.2
+RPLP2	SRP14	i 7	c 0.9
+RPLP2	RPS15	i 5	c 0.828
+RPLP2	RPS15	i 7	c 0.9
+RPLP2	RPS15	i 8	c 0.122
+RBM8A	RPS5	i 5	c 0.248
+RBM8A	RPS5	i 7	c 0.9
+RBM8A	RPS5	i 8	c 0.076
+RPS15	RPS13	i 5	c 0.88
+RPS15	RPS13	i 6	c 0.988
+RPS15	RPS13	i 7	c 0.9
+RPS15	RPS13	i 8	c 0.513
+RPLP2	EIF3F	i 5	c 0.51
+RPLP2	EIF3F	i 7	c 0.9
+RPLP2	EIF3F	i 8	c 0.079
+RPL30	RPS5	i 1	c 0.8
+RPL30	RPS5	i 5	c 0.897
+RPL30	RPS5	i 6	c 0.668
+RPL30	RPS5	i 7	c 0.9
+RPL30	RPS5	i 8	c 0.341
+RPL37	RPS13	i 1	c 0.187
+RPL37	RPS13	i 5	c 0.921
+RPL37	RPS13	i 7	c 0.9
+RPL37	RPS13	i 8	c 0.228
+RPL35	RPS25	i 5	c 0.945
+RPL35	RPS25	i 8	c 0.245
+LIN52	RBBP4	i 6	c 0.583
+LIN52	RBBP4	i 7	c 0.9
+LIN52	RBBP4	i 8	c 0.515
+PSMD1	PSMA5	i 5	c 0.503
+PSMD1	PSMA5	i 6	c 0.68
+PSMD1	PSMA5	i 7	c 0.9
+PSMD1	PSMA5	i 8	c 0.241
+RPL30	RPL35	i 5	c 0.91
+RPL30	RPL35	i 6	c 0.696
+RPL30	RPL35	i 7	c 0.9
+RPL30	RPL35	i 8	c 0.278
+MEAF6	YEATS4	i 5	c 0.151
+MEAF6	YEATS4	i 7	c 0.9
+MEAF6	YEATS4	i 8	c 0.465
+RPS8	RPL30	i 5	c 0.913
+RPS8	RPL30	i 6	c 0.266
+RPS8	RPL30	i 7	c 0.9
+RPS8	RPL30	i 8	c 0.519
+SSR4	RPS15	i 5	c 0.505
+SSR4	RPS15	i 7	c 0.9
+TOMM20	MTX2	i 5	c 0.248
+TOMM20	MTX2	i 7	c 0.9
+TOMM20	MTX2	i 8	c 0.32
+SRP14	RPS13	i 5	c 0.458
+SRP14	RPS13	i 7	c 0.9
+SRP14	RPS13	i 8	c 0.219
+MRPL12	MRPS2	i 5	c 0.658
+MRPL12	MRPS2	i 6	c 0.227
+MRPL12	MRPS2	i 8	c 0.829
+ANAPC7	UBE2S	i 7	c 0.9
+ANAPC7	UBE2S	i 8	c 0.222
+ETF1	RPS5	i 1	c 0.412
+ETF1	RPS5	i 3	c 0.268
+ETF1	RPS5	i 5	c 0.627
+ETF1	RPS5	i 7	c 0.9
+MAPRE1	MAPRE3	i 4	c 0.954
+MAPRE1	MAPRE3	i 6	c 0.9
+MAPRE1	MAPRE3	i 7	c 0.36
+MAPRE1	MAPRE3	i 8	c 0.893
+ETF1	RPS13	i 5	c 0.533
+ETF1	RPS13	i 7	c 0.9
+ETF1	RPS13	i 8	c 0.064
+ETF1	RPL30	i 5	c 0.436
+ETF1	RPL30	i 7	c 0.9
+ETF1	RPL30	i 8	c 0.341
+PSMD3	PSMB3	i 5	c 0.546
+PSMD3	PSMB3	i 6	c 0.421
+PSMD3	PSMB3	i 7	c 0.9
+PSMD3	PSMB3	i 8	c 0.235
+C20orf20	VPS72	i 6	c 0.926
+C20orf20	VPS72	i 8	c 0.242
+RBM17	DHX15	i 6	c 0.99
+RBM17	DHX15	i 8	c 0.125
+ZC3H15	DRG1	i 5	c 0.576
+ZC3H15	DRG1	i 6	c 0.748
+ZC3H15	DRG1	i 8	c 0.396
+RPL37	RPS5	i 5	c 0.881
+RPL37	RPS5	i 7	c 0.9
+RPL37	RPS5	i 8	c 0.817
+RPL31	SEC11C	i 5	c 0.113
+RPL31	SEC11C	i 7	c 0.9
+CSTF2	CPSF4	i 5	c 0.07
+CSTF2	CPSF4	i 7	c 0.9
+CSTF2	CPSF4	i 8	c 0.156
+RBM8A	RPL37	i 5	c 0.216
+RBM8A	RPL37	i 7	c 0.9
+RBM8A	RPL37	i 8	c 0.069
+RPL21	RPS5	i 5	c 0.583
+RPL21	RPS5	i 6	c 0.118
+RPL21	RPS5	i 8	c 0.954
+RPL37	SRP14	i 5	c 0.076
+RPL37	SRP14	i 7	c 0.9
+RBM8A	SNRNP40	i 5	c 0.199
+RBM8A	SNRNP40	i 7	c 0.9
+KCNG1	KCNQ5	i 4	c 0.599
+KCNG1	KCNQ5	i 7	c 0.9
+KCNG1	KCNQ5	i 8	c 0.162
+HNRNPF	RBM8A	i 5	c 0.072
+HNRNPF	RBM8A	i 7	c 0.9
+RPS8	RPL35	i 5	c 0.94
+RPS8	RPL35	i 6	c 0.138
+RPS8	RPL35	i 7	c 0.9
+RPS8	RPL35	i 8	c 0.341
+MEAF6	ING5	i 6	c 0.788
+MEAF6	ING5	i 7	c 0.9
+MEAF6	ING5	i 8	c 0.275
+*nodes
+MAGEE1	0.898788732394366	0.107864523536165	c 117,208,239	989126: melanoma antigen family E, 1
+EXOC5	0.645774647887324	0.571297359357061	c 117,117,239	994957: exocyst complex component 5; Component of the exocyst complex involved in the docking of exocystic vesicles with fusion sites on the plasma membrane
+IRGC	0.569211267605634	0.257692307692308	c 239,163,117	977415: immunity-related GTPase family, cinema
+RNF122	0.624985915492958	0.242192881745121	c 239,189,117	978180: ring finger protein 122; May induce necrosis and apoptosis. May play a role in cell viability
+FBXL7	0.620422535211268	0.13886337543054	c 117,239,180	985634: F-box and leucine-rich repeat protein 7; Probably recognizes and binds to some phosphorylated proteins and promotes their ubiquitination and degradation
+FAM50A	0.453098591549296	0.934500574052813	c 117,117,239	993346: family with sequence similarity 50, member A; May be a DNA-binding protein or transcriptional factor
+OSGIN2	0.944422535211268	0.95	c 117,117,239	995652: oxidative stress induced growth inhibitor family member 2; May be involved in meiosis or the maturation of germ cells
+MPP6	0.696478873239437	0.268025258323766	c 239,139,117	976573: membrane protein, palmitoylated 6 (MAGUK p55 subfamily member 6)
+NDUFAB1	0.619915492957747	0.505683122847302	c 255,175,101	975716: NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa; Carrier of the growing fatty acid chain in fatty acid biosynthesis in mitochondria. Accessory and non-catalytic subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), which functions in the transfer of electrons from NADH to the respiratory chain (By similarity)
+DUSP5	0.904366197183099	0.211194029850746	c 117,184,239	989949: dual specificity phosphatase 5; Displays phosphatase activity toward several substrates. The highest relative activity is toward ERK1
+ETF1	0.553492957746479	0.447818599311137	c 117,216,239	988892: eukaryotic translation termination factor 1; Directs the termination of nascent peptide synthesis (translation) in response to the termination codons UAA, UAG and UGA
+RAB8B	0.401887323943662	0.164695752009185	c 117,239,120	983818: RAB8B, member RAS oncogene family; May be involved in vesicular trafficking and neurotransmitter release (By similarity)
+DNAJC14	0.848084507042254	0.495350172215844	c 117,239,129	984147: DnaJ (Hsp40) homolog, subfamily C, member 14; Regulates the export of target proteins, such as DRD1, from the endoplasmic reticulum to the cell surface (By similarity)
+EXOC3L2	0.255352112676056	0.24735935706085	c 239,182,117	977864: exocyst complex component 3-like 2
+GAS2L1	0.889154929577465	0.547014925373134	c 117,239,232	987446: growth arrest-specific 2 like 1; Seems to be involved in the cross-linking of microtubules and microfilaments
+ZXDB	0.102732394366197	0.795005740528129	c 117,140,239	991092: zinc finger, X-linked, duplicated B; Cooperates with CIITA to promote transcription of MHC class I and MHC class II genes (By similarity)
+XKR7	0.726394366197183	0.660677382319174	c 239,125,117	976277: XK, Kell blood group complex subunit-related family, member 7
+FIZ1	0.731971830985916	0.505683122847302	c 239,134,117	976484: FLT3-interacting zinc finger 1; May be a transcriptional repressor of NRL function in photoreceptors. Does not repress CRX-mediated transactivation (By similarity)
+RPL37	0.484535211267606	0.506199770378875	c 227,239,117	980284: ribosomal protein L37; Binds to the 23S rRNA (By similarity)
+YTHDF2	0.10830985915493	0.521182548794489	c 117,148,239	990873: YTH domain family, member 2
+ARFIP2	0.371971830985916	0.578013777267509	c 239,186,117	978054: ADP-ribosylation factor interacting protein 2; Putative target protein of ADP-ribosylation factor. Involved in membrane ruffling
+IRF2BP2	0.898788732394366	0.185361653272101	c 117,201,239	989291: interferon regulatory factor 2 binding protein 2; Acts as a transcriptional repressor. Acts as a transcriptional corepressor in a IRF2-dependent manner. This repression is not mediated at least in part by histone deacetylase activities
+ZNF217	0.624478873239437	0.765556831228473	c 158,239,117	982776: zinc finger protein 217; Binds to the promoters of target genes and functions as repressor. Promotes cell proliferation and antagonizes cell death. Promotes phosphorylation of AKT1 at 'Ser-473'
+ZNF606	0.133661971830986	0.454018369690011	c 117,239,230	987399: zinc finger protein 606; May be involved in transcriptional regulation
+BTBD3	0.645267605633803	0.924167623421355	c 117,121,239	991789: BTB (POZ) domain containing 3
+MLF2	0.330901408450704	0.640011481056257	c 101,199,255	976015: myeloid leukemia factor 2
+VPS37C	0.389718309859155	0.702525832376579	c 167,239,117	982457: vacuolar protein sorting 37 homolog C (S. cerevisiae); Component of the ESCRT-I complex, a regulator of vesicular trafficking process. Required for the sorting of endocytic ubiquitinated cargos into multivesicular bodies. May be involved in cell growth and differentiation
+SAMD4B	0.848084507042254	0.660677382319174	c 117,239,130	984245: sterile alpha motif domain containing 4B
+SLC35F3	0.898788732394366	0.448851894374282	c 117,200,239	989293: solute carrier family 35, member F3; Putative solute transporter (Potential)
+PHYHIP	0.731971830985916	0.154362801377727	c 117,239,142	984544: Phytanoyl-CoA hydroxylase-interacting protein (Phytanoyl-CoA hydroxylase-associated protein 1)(PAHX-AP1)(PAHXAP1); Its interaction with PHYH suggests a role in the development of the central system
+EDF1	0.747183098591549	0.345522388059701	c 239,146,117	976636: endothelial differentiation-related factor 1; Transcriptional coactivator stimulating NR5A1 and ligand-dependent NR1H3/LXRA and PPARG transcriptional activities. Enhances the DNA-binding activity of ATF1, ATF2, CREB1 and NR5A1. Regulates nitric oxid synthase activity probably by sequestering calmodulin in the cytoplasm. May function in endothelial cells differentiation, hormone-induced cardiomyocytes hypertrophy and lipid metabolism
+GPR137C	0.848084507042254	0.371354764638347	c 117,239,125	984031: G protein-coupled receptor 137C
+BET3L	0.117943661971831	0.392020665901263	c 117,191,239	989710: BET3 like (S. cerevisiae); May play a role in vesicular transport from endoplasmic reticulum to Golgi (By similarity)
+YEATS4	0.667577464788732	0.644661308840413	c 239,171,117	977597: YEATS domain containing 4; Component of the NuA4 histone acetyltransferase (HAT) complex which is involved in transcriptional activation of select genes principally by acetylation of nucleosomal histones H4 and H2A. This modification may both alter nucleosome - DNA interactions and promote interaction of the modified histones with other proteins which positively regulate transcription. This complex may be required for the activation of transcriptional programs associated with oncogene and proto-oncogene mediated growth induction, tumor suppressor mediated growth arrest and replicative  [...] 
+GORASP1	0.848084507042254	0.309357060849598	c 117,239,122	983921: golgi reassembly stacking protein 1, 65kDa; Stacking factor involved in the postmitotic assembly of Golgi stacks from mitotic Golgi fragments. Key structural protein required for the maintenance of the Golgi apparatus integrity: its caspase-mediated cleavage is required for fragmentation of the Golgi during apoptosis. Also mediates, via its interaction with GM130, the docking of transport vesicles with the Golgi membranes
+MAPRE3	0.346619718309859	0.552181400688863	c 239,153,117	977009: microtubule-associated protein, RP/EB family, member 3; May be involved in microtubule polymerization, and spindle function by stabilizing microtubules and anchoring them at centrosomes. May play a role in cell migration (By similarity)
+FAM53B	0.731464788732394	0.128530424799081	c 117,239,216	986701: family with sequence similarity 53, member B
+C20orf20	0.63512676056338	0.660160734787601	c 117,176,239	990149: MRG-binding protein ; Component of the NuA4 histone acetyltransferase (HAT) complex which is involved in transcriptional activation of select genes principally by acetylation of nucleosomal histones H4 and H2A. This modification may both alter nucleosome - DNA interactions and promote interaction of the modified histones with other proteins which positively regulate transcription. This complex may be required for the activation of transcriptional programs associated with oncogene and proto-oncogene mediated growth induction, tumor suppressor mediated growth arrest and replicative senes [...] 
+RGS19	0.868366197183099	0.686509758897819	c 117,239,190	986091: regulator of G-protein signaling 19; Inhibits signal transduction by increasing the GTPase activity of G protein alpha subunits thereby driving them into their inactive GDP-bound form. Binds to G-alpha subfamily 1 members, with the order G(i)a3 > G(i)a1 > G(o)a >> G(z)a/G(i)a2. Activity on G(z)-alpha is inhibited by phosphorylation and palmitoylation of the G-protein
+PPAT	0.23	0.221526980482204	c 239,221,117	979347: phosphoribosyl pyrophosphate amidotransferase
+GPR176	0.787239436619718	0.19052812858783	c 182,239,117	982100: G protein-coupled receptor 176; Orphan receptor
+U2AF1	0.448028169014085	0.365154994259472	c 207,239,117	981290: U2 small nuclear RNA auxiliary factor 1; Plays a critical role in both constitutive and enhancer- dependent splicing by mediating protein-protein interactions and protein-RNA interactions required for accurate 3'-splice site selection. Recruits U2 snRNP to the branch point. Directly mediates interactions between U2AF2 and proteins bound to the enhancers and thus may function as a bridge between U2AF2 and the enhancer complex to recruit it to the adjacent intron
+ZNF281	0.807521126760563	0.242192881745121	c 200,239,117	981519: zinc finger protein 281; Involved in transcriptional regulation. Represses the transcription of a number of genes including gastrin and ornithine decarboxylase. Binds to the G-rich box in the enhancer region of these genes
+ALKBH5	0.077887323943662	0.593513203214696	c 117,117,239	993977: alkB, alkylation repair homolog 5 (E. coli)
+RBBP4	0.675183098591549	0.777956371986223	c 117,152,239	990799: retinoblastoma binding protein 4; Core histone-binding subunit that may target chromatin assembly factors, chromatin remodeling factors and histone deacetylases to their histone substrates in a manner that is regulated by nucleosomal DNA. Component of several complexes which regulate chromatin metabolism. These include the chromatin assembly factor 1 (CAF-1) complex, which is required for chromatin assembly following DNA replication and DNA repair; the core histone deacetylase (HDAC) complex, which promotes histone deacetylation and consequent transcriptional repression; the nucleosome [...] 
+PSMD3	0.711183098591549	0.436452353616533	c 239,225,117	979427: proteasome (prosome, macropain) 26S subunit, non-ATPase, 3; Acts as a regulatory subunit of the 26 proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins
+ZNF358	0.407464788732394	0.113030998851894	c 117,209,239	989066: zinc finger protein 358; May be involved in transcriptional regulation
+ZNF804A	0.401887323943662	0.831171067738232	c 162,239,117	982654: zinc finger protein 804A
+RPL31	0.564647887323944	0.499483352468427	c 117,117,239	994592: ribosomal protein L31
+COPS7B	0.631070422535211	0.309357060849598	c 232,239,117	980197: COP9 constitutive photomorphogenic homolog subunit 7B (Arabidopsis); Component of the COP9 signalosome complex (CSN), a complex involved in various cellular and developmental processes. The CSN complex is an essential regulator of the ubiquitin (Ubl) conjugation pathway by mediating the deneddylation of the cullin subunits of SCF-type E3 ligase complexes, leading to decrease the Ubl ligase activity of SCF-type complexes such as SCF, CSA or DDB2. The complex is also involved in phosphorylation of p53/TP53, c-jun/JUN, IkappaBalpha/NFKBIA, ITPK1 and IRF8/ICSBP, possibly via its associatio [...] 
+RBM12	0.123014084507042	0.872502870264064	c 117,220,239	988723: RNA binding motif protein 12
+C2orf44	0.812591549295775	0.609012629161883	c 198,239,117	981564: WD repeat-containing protein C2orf44 
+CCNYL1	0.133154929577465	0.593513203214696	c 117,239,229	987231: cyclin Y-like 1
+SLC25A28	0.903859154929577	0.474684270952928	c 117,175,239	990154: solute carrier family 25, member 28; Mitochondrial iron transporter that mediates iron uptake. Probably required for heme synthesis of hemoproteins and Fe-S cluster assembly in non-erythroid cells. The iron delivered into the mitochondria, presumably as Fe(2+), is then probably delivered to ferrochelatase to catalyze Fe(2+) incorporation into protoprophyrin IX to make heme (By similarity)
+PTCHD1	0.381605633802817	0.0871986222732491	c 117,117,239	991985: patched domain containing 1
+CDKN2AIP	0.188929577464789	0.57284730195178	c 159,239,117	982719: CDKN2A interacting protein; Activates TP53/p53 by CDKN2A-dependent and CDKN2A- independent pathways
+TMEM222	0.914	0.412686567164179	c 117,144,239	990922: transmembrane protein 222
+JHDM1D	0.726394366197183	0.939667049368542	c 117,117,239	993710: jumonji C domain containing histone demethylase 1 homolog D (S. cerevisiae)
+RIC8B	0.508366197183099	0.934500574052813	c 117,117,239	993293: resistance to inhibitors of cholinesterase 8 homolog B (C. elegans); Guanine nucleotide exchange factor (GEF), which can activate some, but not all, G-alpha proteins by exchanging bound GDP for free GTP (By similarity). Able to potentiate G(olf)-alpha- dependent cAMP accumulation suggesting that it may be an important component for odorant signal transduction (By similarity)
+SLC25A14	0.325830985915493	0.727841561423651	c 239,129,117	976319: solute carrier family 25 (mitochondrial carrier, brain), member 14; Participates in the mitochondrial proton leak measured in brain mitochondria
+ZFYVE21	0.843521126760563	0.19052812858783	c 126,239,117	983534: zinc finger, FYVE domain containing 21
+ING5	0.722845070422535	0.593513203214696	c 117,239,157	984786: inhibitor of growth family, member 5; Component of the HBO1 complex which has a histone H4- specific acetyltransferase activity, a reduced activity toward histone H3 and is responsible for the bulk of histone H4 acetylation in vivo. Component of the MOZ/MORF complex which has a histone H3 acetyltransferase activity. Through chromatin acetylation it may regulate DNA replication and may function as a transcriptional coactivator
+LPGAT1	0.320760563380282	0.903501722158439	c 117,197,239	989372: lysophosphatidylglycerol acyltransferase 1; Lysophoshatidylglycerol (LPG) specific acyltransferase that recognizes various acyl-CoAs and LPGs as substrates but demonstrates a clear preference for long chain saturated fatty acyl-CoAs and oleoyl-CoA as acyl donors. Prefers oleoyl-LPG over palmitoyl-LPG as an acyl receptor and oleoyl-CoA over lauroyl-CoA as an acyl donor
+SAR1A	0.908929577464789	0.268025258323766	c 117,159,239	990741: SAR1 homolog A (S. cerevisiae); Involved in transport from the endoplasmic reticulum to the Golgi apparatus (By similarity). Required to maintain SEC16A localization at discrete locations on the ER membrane perhaps by preventing its dissociation. SAR1A-GTP-dependent assembly of SEC16A on the ER membrane forms an organized scaffold defining endoplasmic reticulum exit sites (ERES)
+XKR6	0.95	0.738174512055109	c 117,117,239	997905: XK, Kell blood group complex subunit-related family, member 6
+DBX2	0.843521126760563	0.13886337543054	c 117,239,185	985849: developing brain homeobox 2
+C19orf54	0.15343661971831	0.924167623421355	c 117,120,239	991801: UPF0692 protein C19orf54 
+FYTTD1	0.270056338028169	0.748507462686567	c 239,161,117	977296: forty-two-three domain containing 1
+FXYD7	0.792816901408451	0.51601607347876	c 239,238,117	980047: FXYD domain containing ion transport regulator 7
+NKAIN1	0.229492957746479	0.35585533869116	c 239,217,117	979233: Na+/K+ transporting ATPase interacting 1
+RPA2	0.914507042253521	0.319690011481056	c 117,145,239	990895: replication protein A2, 32kDa; Required for DNA recombination, repair and replication. The activity of RP-A is mediated by single-stranded DNA binding and protein interactions
+HCCA2	0.077887323943662	0.469517795637199	c 117,117,239	994066: Mps one binder kinase activator-like 2 (Mob2 homolog)(HCCA2); Stimulates the autophosphorylation and kinase activity of STK38 and STK38L
+KBTBD2	0.564140845070423	0.180195177956372	c 164,239,117	982557: kelch repeat and BTB (POZ) domain containing 2
+SYPL1	0.524084507042254	0.665843857634903	c 178,171,0	975739: synaptophysin-like 1
+RBBP5	0.737549295774648	0.687026406429392	c 239,222,117	979409: retinoblastoma binding protein 5; Binds preferentially to underphosphorylated retinoblastoma protein
+STRA13	0.731464788732394	0.180195177956372	c 163,239,117	982608: stimulated by retinoic acid 13 homolog (mouse); Component of the CENPS complex, essential for the stable assembly of the outer kinetchore
+ZNF710	0.792816901408451	0.319690011481056	c 239,234,117	979886: zinc finger protein 710; May be involved in transcriptional regulation
+LRRC4C	0.285267605633803	0.800172215843858	c 223,239,117	980481: leucine rich repeat containing 4C; May promote neurite outgrowth of developing thalamic neurons
+KCNQ5	0.757830985915493	0.712342135476464	c 117,177,239	990128: potassium voltage-gated channel, KQT-like subfamily, member 5; Probably important in the regulation of neuronal excitability. Associates with KCNQ3 to form a potassium channel which contributes to M-type current, a slowly activating and deactivating potassium conductance which plays a critical role in determining the subthreshold electrical excitability of neurons. May contribute, with other potassium channels, to the molecular diversity of an heterogeneous population of M-channels, varying in kinetic and pharmacological properties, which underlie this physiologically important current [...] 
+SCML2	0.627014084507042	0.863719862227325	c 239,181,117	977823: sex comb on midleg-like 2 (Drosophila); Putative Polycomb group (PcG) protein. PcG proteins act by forming multiprotein complexes, which are required to maintain the transcriptionally repressive state of homeotic genes throughout development (By similarity)
+INTS5	0.179295774647887	0.867336394948335	c 117,239,173	985409: integrator complex subunit 5; Component of the Integrator complex, a complex involved in the small nuclear RNAs (snRNA) U1 and U2 transcription and in their 3'-box-dependent processing. The Integrator complex is associated with the C-terminal domain (CTD) of RNA polymerase II largest subunit (POLR2A) and is recruited to the U1 and U2 snRNAs genes
+S100PBP	0.10830985915493	0.738174512055109	c 117,153,239	990793: S100P binding protein
+ZBTB47	0.412535211267606	0.0613662456946039	c 117,117,239	997336: zinc finger and BTB domain containing 47; May be involved in transcriptional regulation
+URGCP	0.67112676056338	0.95	c 117,117,239	995704: upregulator of cell proliferation; May be involved in cell cycle progression through the regulation of cyclin D1 expression. May participate in the development of hepatocellular carcinoma (HCC) by promoting hepatocellular growth and survival. May play an important role in development of gastric cancer
+MARCH5	0.620422535211268	0.89833524684271	c 117,224,239	988596: membrane-associated ring finger (C3HC4) 5; Mitochondrial E3 ubiquitin-protein ligase that plays a crucial role in the control of mitochondrial morphology. Promotes ubiquitination of DRP1. E3 ubiquitin ligases accept ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfer the ubiquitin to targeted substrates
+ZNF628	0.929211267605634	0.800172215843858	c 117,117,239	993212: zinc finger protein 628; Transcription activator. Binds DNA on GT-box consensus sequence 5'-TTGGTT-3' (By similarity)
+MTX2	0.444478873239437	0.46435132032147	c 239,178,117	977688: metaxin 2; Involved in transport of proteins into the mitochondrion
+MMD	0.782169014084507	0.769173363949483	c 239,209,117	978872: monocyte to macrophage differentiation-associated; Involved in the dynamics of lysosomal membranes associated with microglial activation following brain lesion (By similarity)
+RASGEF1A	0.508366197183099	0.071699196326062	c 117,117,239	993524: RasGEF domain family, member 1A; Guanine nucleotide exchange factor (GEF) for KRAS, HRAS, and NRAS (in vitro). Plays a role in cell migration
+DUT	0.51343661971831	0.799655568312285	c 117,117,239	992329: deoxyuridine triphosphatase; This enzyme is involved in nucleotide metabolism: it produces dUMP, the immediate precursor of thymidine nucleotides and it decreases the intracellular concentration of dUTP so that uracil cannot be incorporated into DNA
+AQP6	0.853661971830986	0.722675086107922	c 117,239,145	984570: aquaporin 6, kidney specific; Forms a water-specific channel that participates in distinct physiological functions such as glomerular filtration, tubular endocytosis and acid-base metabolism (By similarity)
+TATDN2	0.401887323943662	0.805338691159587	c 210,239,117	981060: TatD DNase domain containing 2
+ANKRD37	0.14887323943662	0.206027554535017	c 117,239,198	986369: ankyrin repeat domain 37
+PAQR9	0.812591549295775	0.888002296211251	c 117,239,226	987105: progestin and adipoQ receptor family member IX
+MORN5	0.10830985915493	0.645177956371986	c 117,149,239	990866: MORN repeat containing 5
+PRKX	0.78774647887324	0.490183696900115	c 239,213,117	979046: protein kinase, X-linked
+FBXL16	0.168647887323944	0.417853042479908	c 117,239,138	984391: F-box and leucine-rich repeat protein 16; Substrate-recognition component of the SCF (SKP1-CUL1-F- box protein)-type E3 ubiquitin ligase complex (By similarity)
+SRP14	0.553492957746479	0.599196326061998	c 239,233,117	979856: signal recognition particle 14kDa (homologous Alu RNA binding protein); Signal-recognition-particle assembly has a crucial role in targeting secretory proteins to the rough endoplasmic reticulum membrane. SRP9 together with SRP14 and the Alu portion of the SRP RNA, constitutes the elongation arrest domain of SRP. The complex of SRP9 and SRP14 is required for SRP RNA binding
+STT3B	0.204140845070423	0.598679678530425	c 194,239,117	981647: STT3, subunit of the oligosaccharyltransferase complex, homolog B (S. cerevisiae); Component of the N-oligosaccharyl transferase enzyme which catalyzes the transfer of a high mannose oligosaccharide from a lipid-linked oligosaccharide donor to an asparagine residue within an Asn-X-Ser/Thr consensus motif in nascent polypeptide chains. N-glycosylation occurs cotranslationally and the complex associates with the Sec61 complex at the channel-forming translocon complex that mediates protein translocation across the endoplasmic reticulum (ER). SST3B seems to be involved in complex substrate [...] 
+ZNF182	0.50887323943662	0.175028702640643	c 154,239,117	983006: zinc finger protein 182; May be involved in transcriptional regulation
+LRRC33	0.153943661971831	0.144029850746269	c 117,239,174	985508: leucine rich repeat containing 33
+CNIH3	0.79230985915493	0.795005740528129	c 236,239,117	980132: cornichon homolog 3 (Drosophila)
+SLC35E1	0.133661971830986	0.0665327210103329	c 117,117,239	994643: solute carrier family 35, member E1; Putative transporter (By similarity)
+TOX4	0.229492957746479	0.380137772675086	c 239,211,117	979018: TOX high mobility group box family member 4
+UFM1	0.27512676056338	0.495350172215844	c 239,157,117	977230: ubiquitin-fold modifier 1; Ubiquitin-like modifier protein which binds to a number of as yet unidentified target proteins
+CPSF4	0.529154929577465	0.305740528128588	c 206,239,117	981360: cleavage and polyadenylation specific factor 4, 30kDa; Component of the cleavage and polyadenylation specificity factor (CPSF) complex that play a key role in pre-mRNA 3'-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and poly(A) addition. CPSF4 binds RNA polymers with a preference for poly(U)
+RSRC2	0.787239436619718	0.13886337543054	c 117,239,184	985701: arginine/serine-rich coiled-coil 2
+RNF144A	0.164084507042254	0.671010332950632	c 117,239,152	984690: ring finger protein 144A; E3 ubiquitin-protein ligase which accepts ubiquitin from E2 ubiquitin-conjugating enzymes UBE2L3 and UBE2L6 in the form of a thioester and then directly transfers the ubiquitin to targeted substrates (By similarity)
+ZNF574	0.123014084507042	0.89833524684271	c 117,221,239	988611: zinc finger protein 574; May be involved in transcriptional regulation
+DDX6	0.529154929577465	0.419402985074627	c 239,219,117	979300: DEAD (Asp-Glu-Ala-Asp) box polypeptide 6; In the process of mRNA degradation, may play a role in mRNA decapping
+ASB9	0.924140845070423	0.671010332950632	c 117,117,239	992231: ankyrin repeat and SOCS box-containing 9; May be a substrate-recognition component of a SCF-like ECS (Elongin-Cullin-SOCS-box protein) E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins (By similarity)
+TUBA4A	0.259915492957746	0.598679678530425	c 239,175,117	977631: tubulin, alpha 4a; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha-chain (By similarity)
+PDK3	0.676197183098592	0.0613662456946039	c 117,117,239	994685: pyruvate dehydrogenase kinase, isozyme 3; Inhibits the mitochondrial pyruvate dehydrogenase complex by phosphorylation of the E1 alpha subunit, thus contributing to the regulation of glucose metabolism
+H3F3B	0.366901408450704	0.24735935706085	c 239,187,117	978078: H3 histone, family 3B (H3.3B); Variant histone H3 which replaces conventional H3 in a wide range of nucleosomes in active genes. Constitutes the predominant form of histone H3 in non-dividing cells and is incorporated into chromatin independently of DNA synthesis. Deposited at sites of nucleosomal displacement throughout transcribed genes, suggesting that it represents an epigenetic imprint of transcriptionally active chromatin. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play  [...] 
+AHDC1	0.326338028169014	0.753673938002296	c 239,167,117	977569: AT hook, DNA binding motif, containing 1
+TAF3	0.362338028169014	0.51601607347876	c 117,239,221	986914: TAF3 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 140kDa; Transcription factor TFIID is one of the general factors required for accurate and regulated initiation by RNA polymerase II. TFIID is a multimeric protein complex that plays a central role in mediating promoter responses to various activators and repressors. Required in complex with TBPL2 for the differentiation of myoblasts into myocytes. The complex replaces TFIID at specific promoters at an early stage in the differentiation process
+CCIN	0.14887323943662	0.547014925373134	c 117,239,197	986343: calicin; Possible morphogenetic cytoskeletal element in spermiogenic differentiation
+BIRC7	0.584422535211268	0.283524684270953	c 239,123,117	976263: baculoviral IAP repeat-containing 7; Protects against apoptosis induced by TNF or by chemical agents such as adriamycin, etoposide or staurosporine. Suppression of apoptosis is mediated by activation of MAPK8/JNK1, and possibly also of MAPK9/JNK2. This activation depends on TAB1 and NR2C2/TAK1. In vitro, inhibits caspase-3 and proteolytic activation of pro-caspase-9. Isoform 1 blocks staurosporine- induced apoptosis. Isoform 2 blocks etoposide-induced apoptosis
+ORAI2	0.787239436619718	0.113030998851894	c 117,233,239	988103: ORAI calcium release-activated calcium modulator 2; Ca(2+) release-activated Ca(2+)-like (CRAC-like) channel subunit which mediates Ca(2+) influx and increase in Ca(2+)- selective current by synergy with the Ca(2+) sensor, STIM1
+ST8SIA3	0.706619718309859	0.857003444316877	c 117,239,146	984593: ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3; May transfer sialic acid through alpha-2,8-linkages to alpha-2,3-linked and alpha-2,8-linked sialic acid of N-linked oligosaccharides of glycoproteins and glycolipids. It can form polysialic acid in vitro directly on alpha-2,3-, alpha-2,6-, or alpha-2,8-linked sialic acid
+HSPB7	0.676197183098592	0.164695752009185	c 131,239,117	983479: heat shock 27kDa protein family, member 7 (cardiovascular)
+NR2C2AP	0.86887323943662	0.521182548794489	c 117,239,186	986056: nuclear receptor 2C2-associated protein; May act as a repressor of NR2C2-mediated transactivation by suppressing the binding between NR2C2/TR4 and the TR4-response element in target genes
+RPRD2	0.117943661971831	0.252525832376579	c 117,188,239	989821: regulation of nuclear pre-mRNA domain containing 2
+ACER1	0.619915492957747	0.484500574052813	c 168,239,117	982412: alkaline ceramidase 1; Hydrolyzes the sphingolipid ceramide into sphingosine and free fatty acid at an optimal pH of 8.0. Has a highly restricted substrate specificity for the natural stereoisomer of ceramide with D-erythro-sphingosine but not D-ribo- phytosphingosine or D-erythro-dihydrosphingosine as a backbone. May have a role in regulating the levels of bioactive lipids ceramide and sphingosine 1-phosphate, as well as complex sphingolipids (By similarity)
+ZMYND19	0.675690140845071	0.19052812858783	c 183,239,117	982046: zinc finger, MYND-type containing 19; May be involved as a regulatory molecule in GPR24/MCH-R1 signaling
+NUDT3	0.894225352112676	0.89833524684271	c 117,225,239	988569: nudix (nucleoside diphosphate linked moiety X)-type motif 3; Cleaves a beta-phosphate from the diphosphate groups in PP-InsP5 (diphosphoinositol pentakisphosphate) and [PP]2-InsP4 (bisdiphosphoinositol tetrakisphosphate), suggesting that it may play a role in signal transduction. InsP6 (inositol hexakisphophate) is not a substrate. Acts as a negative regulator of the ERK1/2 pathway. Also able to catalyzes the hydrolysis of dinucleoside oligophosphates, with Ap6A and Ap5A being the preferred substrates. The major reaction products are ADP and p4a from Ap6A and ADP and ATP from Ap5A. Als [...] 
+LIN52	0.718281690140845	0.814121699196326	c 117,117,239	992349: lin-52 homolog (C. elegans)
+PSMB7	0.789774647887324	0.41113662456946	c 239,195,117	978479: proteasome (prosome, macropain) subunit, beta type, 7; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+C10orf12	0.564647887323944	0.206027554535017	c 215,239,117	980963: Uncharacterized protein C10orf12 
+PSMA2	0.80143661971831	0.444718714121699	c 239,143,117	976618: proteasome (prosome, macropain) subunit, alpha type, 2; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity. PSMA2 may have a potential regulatory effect on another component(s) of the proteasome complex through tyrosine phosphorylation
+UBE2Z	0.123521126760563	0.180195177956372	c 117,215,239	988955: ubiquitin-conjugating enzyme E2Z; Catalyzes the covalent attachment of ubiquitin to other proteins (By similarity). Specific substrate for UBE1L2, not charged with ubiquitin by UBE1. May be involved in apoptosis regulation
+ZNF518B	0.290338028169014	0.851836969001148	c 117,239,134	984287: zinc finger protein 518B; May be involved in transcriptional regulation
+RTN1	0.675690140845071	0.216360505166475	c 239,230,117	979826: reticulon 1; May be involved in neuroendocrine secretion or in membrane trafficking in neuroendocrine cells
+TSPAN13	0.235070422535211	0.309357060849598	c 239,210,117	978873: tetraspanin 13
+MEIS2	0.158507042253521	0.764006888633754	c 117,239,168	985242: Meis homeobox 2
+SEC61A2	0.619915492957747	0.19052812858783	c 184,239,117	982031: Sec61 alpha 2 subunit (S. cerevisiae); Appears to play a crucial role in the insertion of secretory and membrane polypeptides into the ER. It is required for assembly of membrane and secretory proteins. Found to be tightly associated with membrane-bound ribosomes, either directly or through adaptor proteins (By similarity)
+LRFN4	0.173718309859155	0.231859931113662	c 117,239,117	983792: leucine rich repeat and fibronectin type III domain containing 4
+TBL1X	0.485549295774648	0.739207807118255	c 239,127,117	976304: transducin (beta)-like 1X-linked; F-box-like protein involved in the recruitment of the ubiquitin/19S proteasome complex to nuclear receptor-regulated transcription units. Plays an essential role in transcription activation mediated by nuclear receptors. Probably acts as integral component of corepressor complexes that mediates the recruitment of the 19S proteasome complex, leading to the subsequent proteosomal degradation of transcription repressor complexes, thereby allowing cofactor exchange
+PALM2	0.179295774647887	0.95	c 117,117,239	996076: paralemmin 2
+HNRPDL	0.812591549295775	0.696842709529277	c 196,239,117	981603: heterogeneous nuclear ribonucleoprotein D-like; Acts as a transcriptional regulator. Promotes transcription repression. Promotes transcription activation in differentiated myotubes (By similarity). Binds to double- and single-stranded DNA sequences. Binds to the transcription suppressor CATR sequence of the COX5B promoter (By similarity). Binds with high affinity to RNA molecules that contain AU-rich elements (AREs) found within the 3'-UTR of many proto-oncogenes and cytokine mRNAs. Binds both to nuclear and cytoplasmic poly(A) mRNAs. Binds to poly(G) and poly(A), but not to poly(U) or [...] 
+VPS36	0.36030985915493	0.665843857634903	c 117,125,239	991742: vacuolar protein sorting 36 homolog (S. cerevisiae); Component of the ESCRT-II complex (endosomal sorting complex required for transport II), which is required for multivesicular bodies (MVBs) formation and sorting of endosomal cargo proteins into MVBs. The MVB pathway mediates delivery of transmembrane proteins into the lumen of the lysosome for degradation. The ESCRT-II complex is probably involved in the recruitment of the ESCRT-III complex. Its ability to bind ubiquitin probably plays a role in endosomal sorting of ubiquitinated cargo proteins by ESCRT complexes. The ESCRT-II compl [...] 
+DDX3Y	0.609774647887324	0.602296211251435	c 117,239,201	986481: DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked; Probable ATP-dependent RNA helicase. May play a role in spermatogenesis
+AJAP1	0.919070422535211	0.924167623421355	c 117,123,239	991780: adherens junctions associated protein 1; Plays a role in cell adhesion and cell migration
+AMMECR1L	0.224422535211268	0.283524684270953	c 234,239,117	980183: AMME chromosomal region gene 1-like
+TCFL5	0.148366197183099	0.619345579793341	c 117,239,196	986253: transcription factor-like 5 (basic helix-loop-helix); Putative transcription factor. Isoform 3 may play a role in early spermatogenesis
+MRPL12	0.676704225352113	0.518599311136625	c 117,239,193	986177: mitochondrial ribosomal protein L12
+GMEB1	0.508366197183099	0.200861079219288	c 202,239,117	981499: glucocorticoid modulatory element binding protein 1; Trans-acting factor that binds to glucocorticoid modulatory elements (GME) present in the TAT (tyrosine aminotransferase) promoter and increases sensitivity to low concentrations of glucocorticoids. Binds also to the transferrin receptor promoter. Essential auxiliary factor for the replication of parvoviruses
+LRFN3	0.75174647887324	0.257692307692308	c 239,165,117	977532: leucine rich repeat and fibronectin type III domain containing 3
+GIP	0.843521126760563	0.113030998851894	c 117,231,239	988307: gastric inhibitory polypeptide; Potent stimulator of insulin secretion and relatively poor inhibitor of gastric acid secretion
+TMCC2	0.893718309859155	0.748507462686567	c 117,227,239	988425: transmembrane and coiled-coil domain family 2
+ZNRF4	0.280197183098592	0.273191733639495	c 239,137,117	976518: zinc and ring finger 4
+CBX4	0.633605633802817	0.813605051664753	c 239,235,117	979990: chromobox homolog 4 (Pc class homolog, Drosophila); E3 SUMO-protein ligase which facilitates SUMO1 conjugation by UBE2I. Component of the Polycomb group (PcG) multiprotein PRC1 complex, a complex required to maintain the transcriptionally repressive state of many genes, including Hox genes, throughout development. PcG PRC1 complex acts via chromatin remodeling and modification of histones; it mediates monoubiquitination of histone H2A 'Lys-119', rendering chromatin heritably changed in its expressibility
+ANXA8L2	0.564647887323944	0.919001148105626	c 117,143,239	990964: annexin A8-like 2
+TMEM108	0.78774647887324	0.862169919632606	c 117,239,164	985076: transmembrane protein 108
+TOMM20	0.386676056338028	0.473134328358209	c 117,203,239	989290: translocase of outer mitochondrial membrane 20 homolog (yeast); Central component of the receptor complex responsible for the recognition and translocation of cytosolically synthesized mitochondrial preproteins. Together with TOM22 functions as the transit peptide receptor at the surface of the mitochondrion outer membrane and facilitates the movement of preproteins into the TOM40 translocation pore (By similarity)
+RPL35	0.529154929577465	0.509299655568312	c 239,197,117	978482: ribosomal protein L35
+FRS3	0.564140845070423	0.231859931113662	c 239,199,117	978502: fibroblast growth factor receptor substrate 3; Adapter protein that links FGR and NGF receptors to downstream signaling pathways. Involved in the activation of MAP kinases. Down-regulates ERK2 signaling by interfering with the phosphorylation and nuclear translocation of ERK2
+BCL7B	0.27512676056338	0.702009184845006	c 239,145,117	976624: B-cell CLL/lymphoma 7B; May play a role in lung tumor development or progression
+RUVBL1	0.682788732394366	0.68857634902411	c 117,239,136	984356: RuvB-like 1 (E. coli); Possesses single-stranded DNA-stimulated ATPase and ATP- dependent DNA helicase (3' to 5') activity. Component of the NuA4 histone acetyltransferase complex which is involved in transcriptional activation of select genes principally by acetylation of nucleosomal histones H4 and H2A. This modification may both alter nucleosome - DNA interactions and promote interaction of the modified histones with other proteins which positively regulate transcription. This complex may be required for the activation of transcriptional programs associated with oncogene and proto-o [...] 
+SLC2A13	0.23	0.800172215843858	c 222,239,117	980639: solute carrier family 2 (facilitated glucose transporter), member 13; H(+)-myo-inositol cotransporter. Can also transport related stereoisomers
+SMNDC1	0.341549295774648	0.402870264064294	c 117,183,239	989951: survival motor neuron domain containing 1; Necessary for spliceosome assembly. Overexpression causes apoptosis
+SENP5	0.863802816901408	0.242192881745121	c 117,239,170	985334: SUMO1/sentrin specific peptidase 5; Protease that catalyzes two essential functions in the SUMO pathway: processing of full-length SUMO3 to its mature form and deconjugation of SUMO2 and SUMO3 from targeted proteins. Has weak proteolytic activity against full-length SUMO1 or SUMO1 conjugates. Required for cell division
+RPS15	0.563633802816901	0.525315729047072	c 239,154,117	977028: ribosomal protein S15
+YRDC	0.50887323943662	0.0975315729047072	c 117,161,239	990695: yrdC domain containing (E. coli); May regulate the activity of some transporters (By similarity)
+PPP2R5E	0.235070422535211	0.877669345579793	c 117,239,210	986606: protein phosphatase 2, regulatory subunit B', epsilon isoform; The B regulatory subunit might modulate substrate selectivity and catalytic activity, and also might direct the localization of the catalytic enzyme to a particular subcellular compartment
+CCDC106	0.290338028169014	0.169862227324914	c 135,239,117	983431: coiled-coil domain containing 106
+PTPLA	0.898788732394366	0.159529276693456	c 117,204,239	989229: protein tyrosine phosphatase-like (proline instead of catalytic arginine), member A; Probable anti-phosphatase. May have an important role in the development, differentiation, and maintenance of a number of different tissue types. May play a role in myogenesis and cardiogenesis (By similarity)
+GSPT1	0.632084507042253	0.408036739380023	c 117,117,239	995850: G1 to S phase transition 1; Involved in translation termination in response to the termination codons UAA, UAG and UGA. Stimulates the activity of ERF1. Involved in regulation of mammalian cell growth
+UBE2H	0.676197183098592	0.113030998851894	c 117,235,239	987965: ubiquitin-conjugating enzyme E2H (UBC8 homolog, yeast); Catalyzes the covalent attachment of ubiquitin to other proteins. Capable, in vitro, to ubiquitinate histone H2A
+GSG2	0.158507042253521	0.7898392652124	c 117,239,165	985138: germ cell associated 2 (haspin); Required for normal alignment of chromosomes at metaphase. Phosphorylates histone H3 'Thr-3' during mitosis
+TRIM26	0.95	0.598679678530425	c 117,117,239	997755: tripartite motif-containing 26
+DPF3	0.23456338028169	0.944833524684271	c 117,117,239	993912: D4, zinc and double PHD fingers, family 3; Muscle-specific component of the BAF complex, a multiprotein complex involved in transcriptional activation and repression of select genes by chromatin remodeling (alteration of DNA-nucleosome topology). Specifically binds acetylated lysines on histone 3 and 4 (H3K14ac, H3K9ac, H4K5ac, H4K8ac, H4K12ac, H4K16ac). In the complex, it acts as a tissue-specific anchor between histone acetylations and methylations and chromatin remodeling. It thereby probably plays an essential role in heart and skeletal muscle development
+C1orf172	0.169154929577465	0.304190585533869	c 117,239,140	984449: Uncharacterized protein C1orf172 
+ZNF207	0.339521126760563	0.349138920780712	c 117,117,239	993434: zinc finger protein 207
+DLGAP2	0.123521126760563	0.95	c 117,117,239	996080: discs, large (Drosophila) homolog-associated protein 2; May play a role in the molecular organization of synapses and neuronal cell signaling. Could be an adapter protein linking ion channel to the subsynaptic cytoskeleton. May induce enrichment of PSD-95/SAP90 at the plasma membrane
+DTYMK	0.570225352112676	0.812055109070035	c 156,239,117	982832: deoxythymidylate kinase (thymidylate kinase); Catalyzes the conversion of dTMP to dTDP
+TUBA1B	0.377042253521127	0.13886337543054	c 117,239,204	986496: tubulin, alpha 1b; Tubulin is the major constituent of microtubules. It binds two moles of GTP, one at an exchangeable site on the beta chain and one at a non-exchangeable site on the alpha-chain (By similarity)
+C6orf62	0.919070422535211	0.237026406429391	c 117,124,239	991758: Uncharacterized protein C6orf62 (HBV X-transactivated gene 12 protein)
+ARL6IP1	0.761887323943662	0.836337543053961	c 151,239,117	983062: ADP-ribosylation factor-like 6 interacting protein 1; May be involved in protein transport, membrane trafficking, or cell signaling during hematopoietic maturation
+SLC16A6	0.564140845070423	0.154362801377727	c 117,239,141	984542: solute carrier family 16, member 6 (monocarboxylic acid transporter 7); Proton-linked monocarboxylate transporter. Catalyzes the rapid transport across the plasma membrane of many monocarboxylates such as lactate, pyruvate, branched-chain oxo acids derived from leucine, valine and isoleucine, and the ketone bodies acetoacetate, beta-hydroxybutyrate and acetate (By similarity)
+REEP4	0.346112676056338	0.831171067738232	c 160,239,117	982679: receptor accessory protein 4; May enhance the cell surface expression of odorant receptors (By similarity)
+SMEK1	0.290845070422535	0.877669345579793	c 117,239,208	986536: SMEK homolog 1, suppressor of mek1 (Dictyostelium); Regulatory subunit of serine/threonine-protein phosphatase 4. May regulate the activity of PPP4C at centrosomal microtubule organizing centers. The PPP4C-PPP4R2-PPP4R3A PP4 complex specifically dephosphorylates H2AFX phosphorylated on 'Ser-140' (gamma-H2AFX) generated during DNA replication and required for DNA DSB repair
+MSL2	0.174225352112676	0.479850746268657	c 119,239,117	983707: male-specific lethal 2 homolog (Drosophila); Component of histone acetyltransferase complex responsible for the majority of histone H4 acetylation at lysine 16 which is implicated in the formation of higher-order chromatin structure
+RRAGD	0.731971830985916	0.102698048220436	c 117,185,239	989903: Ras-related GTP binding D; Has guanine nucleotide-binding activity but lacks intrinsic GTPase activity
+PARP16	0.782169014084507	0.645177956371986	c 239,206,117	978832: poly (ADP-ribose) polymerase family, member 16
+MED29	0.397323943661972	0.779506314580942	c 117,239,124	983964: mediator complex subunit 29; Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene-specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors
+C6orf136	0.158	0.0923650975889782	c 117,133,239	991411: Uncharacterized protein C6orf136 
+PSMD1	0.737042253521127	0.385820895522388	c 139,239,117	983393: proteasome (prosome, macropain) 26S subunit, non-ATPase, 1; Acts as a regulatory subunit of the 26 proteasome which is involved in the ATP-dependent degradation of ubiquitinated proteins
+LRFN5	0.259915492957746	0.195694603903559	c 188,239,117	981994: leucine rich repeat and fibronectin type III domain containing 5
+PPP2R4	0.250281690140845	0.333639494833525	c 117,223,239	988602: protein phosphatase 2A activator, regulatory subunit 4; Reversibly stimulates the variable phosphotyrosyl phosphatase activity of PP2A core heterodimer in presence of ATP and Mg(2+) (in vitro)
+C15orf27	0.0925915492957746	0.226693455797933	c 117,117,239	992819: Transmembrane protein C15orf27 
+RPLP2	0.460704225352113	0.521699196326062	c 117,239,160	984819: ribosomal protein, large, P2; Plays an important role in the elongation step of protein synthesis
+ZBTB22	0.944929577464789	0.526349024110218	c 117,117,239	995639: zinc finger and BTB domain containing 22; May be involved in transcriptional regulation
+PAQR4	0.164084507042254	0.521182548794489	c 117,239,154	984754: progestin and adipoQ receptor family member IV
+FBXO28	0.899295774647887	0.84150401836969	c 117,199,239	989343: F-box protein 28; Probably recognizes and binds to some phosphorylated proteins and promotes their ubiquitination and degradation (By similarity)
+VPS72	0.595070422535211	0.626578645235362	c 117,189,239	989786: vacuolar protein sorting 72 homolog (S. cerevisiae); Could be a DNA-binding transcriptional regulator. May be involved in chromatin modification and remodeling
+GFOD1	0.325830985915493	0.0871986222732491	c 117,117,239	991975: glucose-fructose oxidoreductase domain containing 1
+MEX3B	0.676197183098592	0.13886337543054	c 117,239,182	985665: mex-3 homolog B (C. elegans); RNA-binding protein. May be involved in post- transcriptional regulatory mechanisms
+RPS8	0.516985915492958	0.546498277841561	c 117,117,239	993604: small nucleolar RNA, C/D box 55
+TP53INP2	0.209211267605634	0.919001148105626	c 117,141,239	991074: tumor protein p53 inducible nuclear protein 2
+BUD31	0.741605633802817	0.743340987370838	c 239,142,117	976592: BUD31 homolog (S. cerevisiae)
+KLHL36	0.848084507042254	0.7898392652124	c 117,239,133	984272: kelch-like 36 (Drosophila); Probable substrate-specific adapter of an E3 ubiquitin- protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins
+KDELR1	0.264985915492958	0.144029850746269	c 117,239,178	985616: KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 1; Required for the retention of luminal endoplasmic reticulum proteins. Determines the specificity of the luminal ER protein retention system. Also required for normal vesicular traffic through the Golgi. This receptor recognizes K-D-E-L
+CALM1	0.701042253521127	0.352238805970149	c 117,232,239	988220: calmodulin 1 (phosphorylase kinase, delta); Calmodulin mediates the control of a large number of enzymes and other proteins by Ca(2+). Among the enzymes to be stimulated by the calmodulin-Ca(2+) complex are a number of protein kinases and phosphatases. Together with CEP110 and centrin, is involved in a genetic pathway that regulates the centrosome cycle and progression through cytokinesis
+TNNC2	0.113380281690141	0.428185993111366	c 117,165,239	990584: troponin C type 2 (fast); Troponin is the central regulatory protein of striated muscle contraction. Tn consists of three components: Tn-I which is the inhibitor of actomyosin ATPase, Tn-T which contains the binding site for tropomyosin and Tn-C. The binding of calcium to Tn-C abolishes the inhibitory action of Tn on actin filaments
+CPEB3	0.620422535211268	0.216360505166475	c 239,229,117	979704: cytoplasmic polyadenylation element binding protein 3
+TFDP2	0.726901408450704	0.776406429391504	c 136,239,117	983424: transcription factor Dp-2 (E2F dimerization partner 2); Can stimulate E2F-dependent transcription. Binds DNA cooperatively with E2F family members through the E2 recognition site, 5'-TTTC[CG]CGC-3', found in the promoter region of a number of genes whose products are involved in cell cycle regulation or in DNA replication. The DP2/E2F complex functions in the control of cell-cycle progression from G1 to S phase. The E2F-1/DP complex appears to mediate both cell proliferation and apoptosis
+TTLL11	0.164084507042254	0.645177956371986	c 117,239,153	984695: tubulin tyrosine ligase-like family, member 11; Polyglutamase which preferentially modifies alpha- tubulin. Involved in the side-chain elongation step of the polyglutamylation reaction rather than in the initiation step (By similarity)
+SMOX	0.599633802816901	0.836337543053961	c 148,239,117	983127: spermine oxidase; Flavoenzyme which catalyzes the oxidation of spermine to spermidine. Can also use N(1)-acetylspermine and spermidine as substrates, with different affinity depending on the isoform (isozyme) and on the experimental conditions. Plays an important role in the regulation of polyamine intracellular concentration and has the potential to act as a determinant of cellular sensitivity to the antitumor polyamine analogs. May contribute to beta-alanine production via aldehyde dehydrogenase conversion of 3-amino-propanal
+MAPRE1	0.300478873239437	0.558897818599311	c 117,136,239	991232: microtubule-associated protein, RP/EB family, member 1; May be involved in microtubule polymerization, and spindle function by stabilizing microtubules and anchoring them at centrosomes. May play a role in cell migration
+CCDC80	0.330901408450704	0.490183696900115	c 150,101,255	976042: coiled-coil domain containing 80; Promotes cell adhesion and matrix assembly (By similarity)
+ZBTB4	0.837943661971831	0.764006888633754	c 146,239,117	983206: zinc finger and BTB domain containing 4; May be involved in transcriptional regulation
+ZNF483	0.174225352112676	0.815671641791045	c 120,239,117	983689: zinc finger protein 483; May be involved in transcriptional regulation
+ATP5B	0.59	0.381687715269805	c 239,207,117	978858: ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide; Mitochondrial membrane ATP synthase (F(1)F(0) ATP synthase or Complex V) produces ATP from ADP in the presence of a proton gradient across the membrane which is generated by electron transport complexes of the respiratory chain. F-type ATPases consist of two structural domains, F(1) - containing the extramembraneous catalytic core, and F(0) - containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is couple [...] 
+TBC1D25	0.619915492957747	0.0871986222732491	c 117,131,239	991467: TBC1 domain family, member 25; May act as a GTPase-activating protein for Rab family protein(s)
+SNRNP40	0.396816901408451	0.434902411021814	c 239,218,117	979234: small nuclear ribonucleoprotein 40kDa (U5)
+PCF11	0.485549295774648	0.321756601607348	c 187,239,117	982011: PCF11, cleavage and polyadenylation factor subunit, homolog (S. cerevisiae); Component of pre-mRNA cleavage complex II
+WDFY4	0.401887323943662	0.857003444316877	c 117,239,148	984612: WDFY family member 4
+FAM118B	0.123014084507042	0.350688863375431	c 117,217,239	988827: family with sequence similarity 118, member B
+LSM7	0.575295774647887	0.412686567164179	c 239,183,117	977884: LSM7 homolog, U6 small nuclear RNA associated (S. cerevisiae); Binds specifically to the 3'-terminal U-tract of U6 snRNA
+RNH1	0.619915492957747	0.113030998851894	c 117,237,239	987772: ribonuclease/angiogenin inhibitor 1; Inhibitor of pancreatic RNase and angiogenin. May also function in the modulation of cellular activities
+RPS25	0.510394366197183	0.642078071182549	c 239,155,117	977124: ribosomal protein S25
+HNRNPF	0.48656338028169	0.367738231917336	c 117,239,214	986694: heterogeneous nuclear ribonucleoprotein F; Component of the heterogeneous nuclear ribonucleoprotein (hnRNP) complexes which provide the substrate for the processing events that pre-mRNAs undergo before becoming functional, translatable mRNAs in the cytoplasm. Probably binds G-rich sequences in pre-mRNAs
+GPR162	0.544366197183099	0.846670493685419	c 122,239,117	983674: leprecan-like 2; Has prolyl 3-hydroxylase activity catalyzing the post- translational formation of 3-hydroxyproline in -Xaa-Pro-Gly- sequences in collagens, especially types IV and V (By similarity)
+PUF60	0.380591549295775	0.326406429391504	c 117,239,156	984779: poly-U binding splicing factor 60KDa; DNA- and RNA-binding protein, involved in several nuclear processes such as pre-mRNA splicing, apoptosis and transcription regulation. In association with FUBP1 regulates MYC transcription at the P2 promoter through the core-TFIIH basal transcription factor. Acts as a transcriptional repressor through the core-TFIIH basal transcription factor. Represses FUBP1-induced transcriptional activation but not basal transcription. Decreases ERCC3 helicase activity. Does not repress TFIIH-mediated transcription in xeroderma pigmentosum complementation group  [...] 
+UBQLN4	0.118450704225352	0.495350172215844	c 117,192,239	989655: ubiquilin 4
+MRPS2	0.737042253521127	0.534098737083812	c 239,162,117	977298: mitochondrial ribosomal protein S2
+TM9SF3	0.903859154929577	0.645177956371986	c 117,173,239	990297: transmembrane 9 superfamily member 3
+EIF1AX	0.898788732394366	0.0820321469575201	c 117,117,239	992043: eukaryotic translation initiation factor 1A, X-linked; Seems to be required for maximal rate of protein biosynthesis. Enhances ribosome dissociation into subunits and stabilizes the binding of the initiator Met-tRNA(I) to 40 S ribosomal subunits
+DCAF5	0.50887323943662	0.123363949483352	c 117,239,225	987078: DDB1 and CUL4 associated factor 5
+VCPIP1	0.179295774647887	0.84150401836969	c 143,239,117	983346: valosin containing protein (p97)/p47 complex interacting protein 1; Acts as a deubiquitinating enzyme. Necessary for VCP- mediated reassembly of Golgi stacks after mitosis. May play a role in VCP-mediated formation of transitional endoplasmic reticulum (tER). Mediates dissociation of the ternary complex containing STX5A, NSFL1C and VCP (By similarity)
+GPKOW	0.246225352112676	0.426119402985075	c 101,255,163	975840: G patch domain and KOW motifs
+CSTF2	0.524591549295775	0.355338691159587	c 117,163,239	990674: cleavage stimulation factor, 3' pre-RNA, subunit 2, 64kDa; One of the multiple factors required for polyadenylation and 3'-end cleavage of mammalian pre-mRNAs. This subunit is directly involved in the binding to pre-mRNAs (By similarity)
+ZDHHC5	0.731464788732394	0.206027554535017	c 212,239,117	981033: zinc finger, DHHC-type containing 5
+PDE12	0.179295774647887	0.169862227324914	c 140,239,117	983359: phosphodiesterase 12; Enzyme that cleaves 2',5'-phosphodiester bond linking adenosines of the 5'-triphosphorylated oligoadenylates, triphosphorylated oligoadenylates referred as 2-5A modulates the 2-5A system. This enzyme degraded triphosphorylated 2-5A to produce AMP and ATP. Also cleaves 3',5'-phosphodiester bond of oligoadenylates. Play a role as a negative regulator of the The 2- 5A system that is one of the major pathways for antiviral and antitumor functions induced by interferons (IFNs). Suppression of this enzyme induces reduction of viral replication in Hela cells, thus counte [...] 
+ZNF503	0.402394366197183	0.908668197474168	c 117,167,239	990578: zinc finger protein 503; May function as a transcriptional repressor (By similarity)
+TMEM225	0.102225352112676	0.769173363949483	c 117,139,239	991118: transmembrane protein 225
+PTMA	0.51343661971831	0.893168771526981	c 117,239,233	987524: prothymosin, alpha; Prothymosin alpha may mediate immune function by conferring resistance to certain opportunistic infections
+NAA30	0.31569014084507	0.195694603903559	c 186,239,117	982030: N(alpha)-acetyltransferase 30, NatC catalytic subunit; Catalytic subunit of the N-terminal acetyltransferase C (NatC) complex. Catalyzes acetylation of the N-terminal methionine residues of peptides beginning with Met-Leu-Ala and Met-Leu-Gly. Necessary for the lysosomal localization and function of ARL8B
+TIPRL	0.637154929577465	0.340355912743972	c 117,195,239	989549: TIP41, TOR signaling pathway regulator-like (S. cerevisiae)
+ZNF668	0.23456338028169	0.826004592422503	c 170,239,117	982329: zinc finger protein 668; May be involved in transcriptional regulation (By similarity)
+SEPHS1	0.0976619718309859	0.924167623421355	c 117,119,239	991864: selenophosphate synthetase 1; Synthesizes selenophosphate from selenide and ATP
+RLF	0.113380281690141	0.324856486796785	c 117,164,239	990634: rearranged L-myc fusion; May be involved in transcriptional regulation
+TBL1XR1	0.43687323943662	0.730424799081516	c 117,117,239	996677: transducin (beta)-like 1 X-linked receptor 1; F-box-like protein involved in the recruitment of the ubiquitin/19S proteasome complex to nuclear receptor-regulated transcription units. Plays an essential role in transcription activation mediated by nuclear receptors. Probably acts as integral component of the N-Cor corepressor complex that mediates the recruitment of the 19S proteasome complex, leading to the subsequent proteosomal degradation of N-Cor complex, thereby allowing cofactor exchange, and transcription activation
+HS3ST2	0.777605633802817	0.583180252583238	c 239,202,117	978693: heparan sulfate (glucosamine) 3-O-sulfotransferase 2; Transfers a sulfuryl group to an N-unsubstituted glucosamine linked to a 2-O-sulfo iduronic acid unit on heparan sulfate. Catalyzes the O-sulfation of glucosamine in GlcA2S-GlcNS. Unlike 3-OST-1, does not convert non-anticoagulant heparan sulfate to anticoagulant heparan sulfate
+ARL8B	0.680760563380282	0.242192881745121	c 239,190,117	978206: ADP-ribosylation factor-like 8B; May play a role in lysosome motility (PubMed:16537643). May play a role in chromosome segregation (PubMed:15331635)
+ZBTB3	0.0875211267605634	0.29902411021814	c 117,117,239	993442: zinc finger and BTB domain containing 3; May be involved in transcriptional regulation
+STON2	0.792816901408451	0.216360505166475	c 239,231,117	979833: stonin 2; Adapter protein involved in endocytic machinery. May be involved in the vesicle recycling. May facilitate clathrin-coated vesicle uncoating
+LUC7L3	0.442450704225352	0.268025258323766	c 239,159,117	977250: LUC7-like 3 (S. cerevisiae); Binds cAMP regulatory element DNA sequence. May play a role in RNA splicing
+MEAF6	0.700028169014085	0.638978185993112	c 117,160,239	990701: MYST/Esa1-associated factor 6; Component of the NuA4 histone acetyltransferase complex which is involved in transcriptional activation of select genes principally by acetylation of nucleosomal histone H4 and H2A. This modification may both alter nucleosome - DNA interactions and promote interaction of the modified histones with other proteins which positively regulate transcription. Component of the HBO1 complex which has a histone H4-specific acetyltransferase activity, a reduced activity toward histone H3 and is responsible for the bulk of histone H4 acetylation in vivo. Component of [...] 
+ATG4A	0.756816901408451	0.908668197474168	c 117,169,239	990521: ATG4 autophagy related 4 homolog A (S. cerevisiae); Cysteine protease required for autophagy, which cleaves the C-terminal part of either MAP1LC3, GABARAPL2 or GABARAP, allowing the liberation of form I. A subpopulation of form I is subsequently converted to a smaller form (form II). Form II, with a revealed C-terminal glycine, is considered to be the phosphatidylethanolamine (PE)-conjugated form, and has the capacity for the binding to autophagosomes. Preferred substrate is GABARAPL2 followed by MAP1LC3A and GABARAP
+TMEM164	0.904366197183099	0.774339839265212	c 117,171,239	990488: transmembrane protein 164
+CDIPT	0.513943661971831	0.278358208955224	c 239,131,117	976393: CDP-diacylglycerol--inositol 3-phosphatidyltransferase (phosphatidylinositol synthase); Catalyzes the biosynthesis of phosphatidylinositol (PtdIns) as well as PtdIns:inositol exchange reaction. May thus act to reduce an excessive cellular PtdIns content. The exchange activity is due to the reverse reaction of PtdIns synthase and is dependent on CMP, which is tightly bound to the enzyme
+RNF138	0.341549295774648	0.779506314580942	c 239,203,117	978747: ring finger protein 138; E3 ubiquitin-protein ligase. Together with NLK, involved in the ubiquitination and degradation of TCF/LEF. Also exhibits auto-ubiquitination activity in combination with UBE2K. May act as a negative regulator in the Wnt/beta-catenin-mediated signaling pathway
+TSSC1	0.290338028169014	0.929334098737084	c 117,117,239	992514: tumor suppressing subtransferable candidate 1
+CTDSP1	0.396816901408451	0.216360505166475	c 231,239,117	980200: CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 1; Preferentially catalyzes the dephosphorylation of 'Ser- 5' within the tandem 7 residues repeats in the C-terminal domain (CTD) of the largest RNA polymerase II subunit POLR2A. Negatively regulates RNA polymerase II transcription, possibly by controlling the transition from initiation/capping to processive transcript elongation. Recruited by REST to neuronal genes that contain RE-1 elements, leading to neuronal gene silencing in non-neuronal cells
+UBE2S	0.645267605633803	0.366188289322618	c 239,223,117	979411: ubiquitin-conjugating enzyme E2S; Catalyzes the covalent attachment of ubiquitin to other proteins. Acts as an essential factor of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated ubiquitin ligase that controls progression through mitosis. Acts by specifically elongating 'Lys-11'-linked polyubiquitin chains initiated by the E2 enzyme UBE2C/UBCH10 on APC/C substrates, enhancing the degradation of APC/C substrates by the proteasome and promoting mitotic exit. Also acts by elongating ubiquitin chains initiated by the E2 enzyme UBE2D1/UBCH5 in vitro; it is however u [...] 
+SPAG7	0.331408450704225	0.614179104477612	c 0,28,178	976038: sperm associated antigen 7
+PRDM13	0.564647887323944	0.102698048220436	c 117,187,239	989860: PR domain containing 13; May be involved in transcriptional regulation
+PHF7	0.86887323943662	0.593513203214696	c 117,239,189	986076: PHD finger protein 7; May play a role in spermatogenesis
+FAM193B	0.356253521126761	0.0613662456946039	c 117,117,239	997180: family with sequence similarity 193, member B
+EIF3F	0.489098591549296	0.630711825487945	c 132,239,117	983470: eukaryotic translation initiation factor 3, subunit F; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is required for several steps in the initiation of protein synthesis. The eIF-3 complex associates with the 40S ribosome and facilitates the recruitment of eIF-1, eIF-1A, eIF-2:GTP:methionyl-tRNAi and eIF-5 to form the 43S preinitiation complex (43S PIC). The eIF-3 complex stimulates mRNA recruitment to the 43S PIC and scanning of the mRNA for AUG recognition. The eIF-3 complex is also required for disassembly and recycling of posttermination ribosom [...] 
+LRTM2	0.817154929577465	0.820838117106774	c 180,239,117	982114: leucine-rich repeats and transmembrane domains 2
+NFYB	0.415577464788732	0.671010332950632	c 239,158,117	977239: nuclear transcription factor Y, beta; Stimulates the transcription of various genes by recognizing and binding to a CCAAT motif in promoters, for example in type 1 collagen, albumin and beta-actin genes
+DUSP12	0.118450704225352	0.820838117106774	c 117,193,239	989570: dual specificity phosphatase 12
+ZNRF2	0.858732394366197	0.423019517795637	c 117,239,162	984988: zinc and ring finger 2; May play a role in the establisment and maintenance of neuronal transmission and plasticity via its ubiquitin ligase activity. E3 ubiquitin ligases accept ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfer the ubiquitin to targeted substrates
+ZNF821	0.848084507042254	0.216360505166475	c 117,239,121	983915: zinc finger protein 821; May be involved in transcriptional regulation
+HP1BP3	0.346112676056338	0.164695752009185	c 117,239,118	983801: heterochromatin protein 1, binding protein 3; Component of heterochromatin, may be involved in chromatin structure and function (By similarity)
+MEPCE	0.457661971830986	0.84150401836969	c 144,239,117	983287: methylphosphate capping enzyme; S-adenosyl-L-methionine-dependent methyltransferase that adds a methylphosphate cap at the 5'-end of 7SK snRNA, leading to stabilize it
+TRIM8	0.194	0.696842709529277	c 166,239,117	982502: tripartite motif-containing 8
+C3orf58	0.853154929577465	0.268025258323766	c 117,239,144	984551: UPF0672 protein C3orf58 Precursor 
+MON1B	0.756816901408451	0.619345579793341	c 239,174,117	977624: MON1 homolog B (yeast)
+ARF1	0.79230985915493	0.671010332950632	c 238,239,117	980130: ADP-ribosylation factor 1; GTP-binding protein that functions as an allosteric activator of the cholera toxin catalytic subunit, an ADP- ribosyltransferase. Involved in protein trafficking among different compartments. Modulates vesicle budding and uncoating within the Golgi complex. Deactivation induces the redistribution of the entire Golgi complex to the endoplasmic reticulum, suggesting a crucial role in protein trafficking. In its GTP-bound form, its triggers the association with coat proteins with the Golgi membrane. The hydrolysis of ARF1-bound GTP, which is mediated by ARFGAPs  [...] 
+CCDC102A	0.422676056338028	0.242192881745121	c 239,193,117	978355: coiled-coil domain containing 102A
+PRIM1	0.564140845070423	0.694776119402985	c 117,228,239	988396: primase, DNA, polypeptide 1 (49kDa); DNA primase is the polymerase that synthesizes small RNA primers for the Okazaki fragments made during discontinuous DNA replication
+SLCO3A1	0.346112676056338	0.857003444316877	c 117,239,149	984618: solute carrier organic anion transporter family, member 3A1; Mediates the Na(+)-independent transport of organic anions such as estrone-3-sulfate (PubMed:10873595). Mediates transport of prostaglandins (PG) E1 and E2, thyroxine (T4), deltorphin II, BQ-123 and vasopressin, but not DPDPE (a derivative of enkephalin lacking an N-terminal tyrosine residue), estrone-3- sulfate, taurocholate, digoxin nor DHEAS (PubMed:16971491)
+PPP1R3F	0.620422535211268	0.68134328358209	c 14,178,0	975806: protein phosphatase 1, regulatory (inhibitor) subunit 3F
+DEDD2	0.87343661971831	0.815671641791045	c 117,239,206	986516: death effector domain containing 2; May play a critical role in death receptor-induced apoptosis and may target CASP8 and CASP10 to the nucleus. May regulate degradation of intermediate filaments during apoptosis. May play a role in the general transcription machinery in the nucleus and might be an important regulator of the activity of GTF3C3
+CMTM3	0.123014084507042	0.846670493685419	c 117,219,239	988811: CKLF-like MARVEL transmembrane domain containing 3
+TSPAN5	0.837943661971831	0.634845005740528	c 147,239,117	983179: tetraspanin 5
+MAU2	0.782169014084507	0.934500574052813	c 117,117,239	993255: KIAA0892; Required for association of the cohesin complex with chromatin during interphase. Plays a role in sister chromatid cohesion and normal progression through prometaphase
+ASPHD2	0.701042253521127	0.459184845005741	c 239,118,117	976130: aspartate beta-hydroxylase domain containing 2
+RBM8A	0.471859154929577	0.434385763490241	c 117,239,188	986071: RNA binding motif protein 8A; Component of a splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junction on mRNAs. The EJC is a dynamic structure consisting of a few core proteins and several more peripheral nuclear and cytoplasmic associated factors that join the complex only transiently either during EJC assembly or during subsequent mRNA metabolism. Core components of the EJC, that remains bound to spliced mRNAs throughout all stages of mRNA metabolism, functions to mark the position of the exon-exon junction in the mature mRNA and thereby influences dow [...] 
+FAM46A	0.235070422535211	0.851836969001148	c 117,239,137	984357: family with sequence similarity 46, member A
+ZNF202	0.143295774647887	0.278358208955224	c 117,239,212	986613: zinc finger protein 202; Transcriptional repressor that binds to elements found predominantly in genes that participate in lipid metabolism. Among its targets are structural components of lipoprotein particles (apolipoproteins AIV, CIII, and E), enzymes involved in lipid processing (lipoprotein lipase, lecithin cholesteryl ester transferase), transporters involved in lipid homeostasis (ABCA1, ABCG1), and several genes involved in processes related to energy metabolism and vascular disease
+TEX264	0.138225352112676	0.696842709529277	c 117,239,224	987015: testis expressed 264
+FOXD4	0.0925915492957746	0.619345579793341	c 117,117,239	992573: forkhead box D4
+CLVS2	0.797887323943662	0.283524684270953	c 226,239,117	980350: Clavesin-2 (Retinaldehyde-binding protein 1-like protein 2); Required for normal morphology of late endosomes and/or lysosomes in neurons (By similarity). Binds phosphatidylinositol 3,5-bisphosphate (PtdIns(3,5)P2)
+KRTAP10-9	0.0829577464788732	0.712342135476464	c 117,117,239	993757: keratin associated protein 10-9; In the hair cortex, hair keratin intermediate filaments are embedded in an interfilamentous matrix, consisting of hair keratin-associated proteins (KRTAP), which are essential for the formation of a rigid and resistant hair shaft through their extensive disulfide bond cross-linking with abundant cysteine residues of hair keratins. The matrix proteins include the high- sulfur and high-glycine-tyrosine keratins
+GDPD1	0.219859154929577	0.505683122847302	c 216,239,117	980847: glycerophosphodiester phosphodiesterase domain containing 1
+PPP1R14B	0.78774647887324	0.164695752009185	c 130,239,117	983480: protein phosphatase 1, regulatory (inhibitor) subunit 14B; Inhibitor of PPP1CA. Has over 50-fold higher inhibitory activity when phosphorylated (By similarity)
+IDH3G	0.381605633802817	0.727841561423651	c 239,126,117	976298: isocitrate dehydrogenase 3 (NAD+) gamma
+DDX3X	0.0773802816901408	0.0665327210103329	c 117,117,239	994106: DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked; ATP-dependent RNA helicase. Acts as a cofactor for XPO1- mediated nuclear export of incompletely spliced HIV-1 Rev RNAs. Also involved in HIV-1 replication. Interacts specifically with hepatitis C virus core protein resulting in a change in intracellular location
+UTS2	0.341549295774648	0.448851894374282	c 187,255,101	975803: urotensin 2; Highly potent vasoconstrictor
+KLHL28	0.863802816901408	0.939667049368542	c 117,117,239	993557: kelch-like 28 (Drosophila)
+FBXO46	0.300478873239437	0.0613662456946039	c 117,117,239	997170: F-box protein 46; Substrate-recognition component of the SCF (SKP1-CUL1-F- box protein)-type E3 ubiquitin ligase complex (By similarity)
+PCDHGC3	0.174225352112676	0.376521239954076	c 118,239,117	983735: protocadherin gamma subfamily C, 3; Potential calcium-dependent cell-adhesion protein. May be involved in the establishment and maintenance of specific neuronal connections in the brain
+PODXL2	0.128591549295775	0.118197474167623	c 117,239,236	987636: podocalyxin-like 2
+TXLNA	0.10830985915493	0.671010332950632	c 117,151,239	990830: taxilin alpha; May be involved in intracellular vesicle traffic and potentially in calcium-dependent exocytosis in neuroendocrine cells
+DHX15	0.384140845070423	0.273191733639495	c 117,239,202	986486: DEAH (Asp-Glu-Ala-His) box polypeptide 15; Pre-mRNA processing factor involved in disassembly of spliceosomes after the release of mature mRNA (By similarity)
+DYRK2	0.675690140845071	0.888002296211251	c 117,239,228	987194: dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2; Role in the regulation of cellular growth and/or development. Regulates TP53 by phosphorylation on Ser-46 to induce apoptosis in response to DNA damage, functioning downstream of ATM. Inactivates GYS1 by phosphorylation at Ser-641, and potentially also a second phosphorylation site, thus regulating glycogen synthesis. Phosphorylates EIF2B5 at Ser-544, enabling its subsequent phosphorylation and inhibition by GSK3, and may play a more general role in the priming of GSK3 substrates
+ANAPC7	0.686338028169014	0.39150401836969	c 117,117,239	995431: anaphase promoting complex subunit 7; Component of the anaphase promoting complex/cyclosome (APC/C), a cell cycle-regulated E3 ubiquitin ligase that controls progression through mitosis and the G1 phase of the cell cycle. The APC/C complex acts by mediating ubiquitination and subsequent degradation of target proteins: it mainly mediates the formation of 'Lys-11'-linked polyubiquitin chains and, to a lower extent, the formation of 'Lys-48'- and 'Lys-63'-linked polyubiquitin chains
+RPS13	0.489605633802817	0.550114810562572	c 239,151,117	976790: ribosomal protein S13
+TSC22D2	0.351183098591549	0.113030998851894	c 117,212,239	989014: TSC22 domain family, member 2
+COQ4	0.290338028169014	0.826004592422503	c 171,239,117	982289: coenzyme Q4 homolog (S. cerevisiae); Component of the coenzyme Q biosynthetic pathway. May play a role in organizing a multi-subunit COQ enzyme complex required for coenzyme Q biosynthesis. Required for steady-state levels of other COQ polypeptides
+TOR1B	0.27056338028169	0.774339839265212	c 239,194,117	978466: torsin family 1, member B (torsin B); May serve as a molecular chaperone assisting in the proper folding of secreted and/or membrane proteins (By similarity)
+INTS12	0.285774647887324	0.221526980482204	c 239,226,117	979554: integrator complex subunit 12; Component of the Integrator complex, a complex involved in the small nuclear RNAs (snRNA) U1 and U2 transcription and in their 3'-box-dependent processing. The Integrator complex is associated with the C-terminal domain (CTD) of RNA polymerase II largest subunit (POLR2A) and is recruited to the U1 and U2 snRNAs genes
+CABP7	0.31569014084507	0.588346727898967	c 239,119,117	976166: calcium binding protein 7; Negatively regulates Golgi-to-plasma membrane trafficking by interacting with PI4KB and inhibiting its activity (By similarity)
+ARID5A	0.893718309859155	0.619345579793341	c 117,229,239	988324: AT rich interactive domain 5A (MRF1-like); Binds to AT-rich stretches in the modulator region upstream of the human cytomegalovirus major intermediate early gene enhancer. May act as repressor and down-regulate enhancer- dependent gene expressison
+MRPS26	0.924140845070423	0.57284730195178	c 117,117,239	992196: mitochondrial ribosomal protein S26
+UHRF2	0.797887323943662	0.738174512055109	c 224,239,117	980444: ubiquitin-like with PHD and ring finger domains 2; E3 ubiquitin-protein ligase which mediates ubiquitination and subsequent proteasomal degradation of PCNP. May participate in methylation-dependent transcriptional regulation. Important for G1/S transition. Overexpression causes G1 phase cell arrest
+PIN4	0.290338028169014	0.29902411021814	c 239,130,117	976328: protein (peptidylprolyl cis/trans isomerase) NIMA-interacting, 4 (parvulin); Isoform 1 is involved as a ribosomal RNA processing factor in ribosome biogenesis. Binds to tightly bent AT-rich stretches of double-stranded DNA
+RAB11B	0.868366197183099	0.872502870264064	c 117,239,192	986132: RAB11B, member RAS oncogene family; Possesses GTPase activity
+SUPT16H	0.685830985915493	0.293857634902411	c 239,122,117	976194: suppressor of Ty 16 homolog (S. cerevisiae); Component of the FACT complex, a general chromatin factor that acts to reorganize nucleosomes. The FACT complex is involved in multiple processes that require DNA as a template such as mRNA elongation, DNA replication and DNA repair. During transcription elongation the FACT complex acts as a histone chaperone that both destabilizes and restores nucleosomal structure. It facilitates the passage of RNA polymerase II and transcription by promoting the dissociation of one histone H2A-H2B dimer from the nucleosome, then subsequently promotes the  [...] 
+FAM189A1	0.737042253521127	0.231859931113662	c 239,201,117	978674: family with sequence similarity 189, member A1
+SNRK	0.204140845070423	0.547014925373134	c 192,239,117	981705: SNF related kinase; May play a role in hematopoietic cell proliferation or differentiation. Potential mediator of neuronal apoptosis
+MARCH2	0.326338028169014	0.324856486796785	c 239,117,117	976094: membrane-associated ring finger (C3HC4) 2; E3 ubiquitin-protein ligase that may mediate ubiquitination of TFRC and CD86, and promote their subsequent endocytosis and sorting to lysosomes via multivesicular bodies. E3 ubiquitin ligases accept ubiquitin from an E2 ubiquitin- conjugating enzyme in the form of a thioester and then directly transfer the ubiquitin to targeted substrates. May be involved in endosomal trafficking through interaction with STX6
+ARL6IP6	0.848591549295775	0.397187141216992	c 117,239,126	984056: ADP-ribosylation-like factor 6 interacting protein 6
+NKG7	0.285267605633803	0.46435132032147	c 239,135,117	976510: natural killer cell group 7 sequence
+ZNF219	0.295915492957746	0.113030998851894	c 117,213,239	988958: zinc finger protein 219; May be involved in transcriptional regulation
+CTDSP2	0.59	0.944833524684271	c 117,117,239	993790: CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 2; Preferentially catalyzes the dephosphorylation of 'Ser- 5' within the tandem 7 residues repeats in the C-terminal domain (CTD) of the largest RNA polymerase II subunit POLR2A. Negatively regulates RNA polymerase II transcription, possibly by controlling the transition from initiation/capping to processive transcript elongation. Recruited by REST to neuronal genes that contain RE-1 elements, leading to neuronal gene silencing in non-neuronal cells. May contribute to the development of sarcomas
+VSTM2L	0.701549295774648	0.913834672789897	c 117,155,239	990789: V-set and transmembrane domain containing 2 like
+KLHL25	0.432816901408451	0.13886337543054	c 117,239,205	986497: kelch-like 25 (Drosophila)
+SEC11C	0.631577464788732	0.548564867967853	c 172,239,117	982195: SEC11 homolog C (S. cerevisiae); Component of the microsomal signal peptidase complex which removes signal peptides from nascent proteins as they are translocated into the lumen of the endoplasmic reticulum (By similarity)
+TMEM41B	0.427239436619718	0.19052812858783	c 175,239,117	982176: transmembrane protein 41B
+DCUN1D1	0.214281690140845	0.774339839265212	c 204,239,117	981383: DCN1, defective in cullin neddylation 1, domain containing 1 (S. cerevisiae); May contribute to neddylation of cullin components of SCF-type E3 ubiquitin ligase complexes. Neddylation of cullins play an essential role in the regulation of SCF-type complexes activity (By similarity)
+ATP6V1A	0.543859154929577	0.388404133180253	c 228,239,117	980231: ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A; Catalytic subunit of the peripheral V1 complex of vacuolar ATPase. V-ATPase vacuolar ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells
+KIAA1644	0.924140845070423	0.867336394948335	c 117,117,239	992363: KIAA1644
+LRFN1	0.260422535211268	0.531515499425947	c 239,177,117	977643: leucine rich repeat and fibronectin type III domain containing 1; Involved in the regulation of excitatory synapses (By similarity)
+KIAA2018	0.164084507042254	0.722675086107922	c 117,239,150	984635: KIAA2018
+SSU72	0.346112676056338	0.805338691159587	c 208,239,117	981276: SSU72 RNA polymerase II CTD phosphatase homolog (S. cerevisiae); May be involved in the C-terminal domain of RNA polymerase II dephosphorylation, RNA processing and termination
+RAB1A	0.18943661971831	0.0665327210103329	c 117,117,239	994657: RAB1A, member RAS oncogene family; Probably required for transit of protein from the ER through Golgi compartment. Binds GTP and GDP and possesses intrinsic GTPase activity
+PCDH9	0.843014084507042	0.0871986222732491	c 117,127,239	991702: protocadherin 9; Potential calcium-dependent cell-adhesion protein
+ALDOC	0.275633802816901	0.62451205510907	c 239,150,117	976733: aldolase C, fructose-bisphosphate
+C1orf35	0.224422535211268	0.402353616532721	c 235,239,117	980134: Multiple myeloma tumor-associated protein 2 (hMMTAG2)
+N4BP2L1	0.924140845070423	0.500516647531573	c 117,117,239	992150: NEDD4 binding protein 2-like 1
+SF3A2	0.374507042253521	0.369804822043628	c 239,133,117	976473: splicing factor 3a, subunit 2, 66kDa; Subunit of the splicing factor SF3A required for 'A' complex assembly formed by the stable binding of U2 snRNP to the branchpoint sequence (BPS) in pre-mRNA. Sequence independent binding of SF3A/SF3B complex upstream of the branch site is essential, it may anchor U2 snRNP to the pre-mRNA. May also be involved in the assembly of the 'E' complex
+GPS1	0.584929577464789	0.316073478760046	c 117,236,239	987885: G protein pathway suppressor 1; Essential component of the COP9 signalosome complex (CSN), a complex involved in various cellular and developmental processes. The CSN complex is an essential regulator of the ubiquitin (Ubl) conjugation pathway by mediating the deneddylation of the cullin subunits of SCF-type E3 ligase complexes, leading to decrease the Ubl ligase activity of SCF-type complexes such as SCF, CSA or DDB2. The complex is also involved in phosphorylation of p53/TP53, c-jun/JUN, IkappaBalpha/NFKBIA, ITPK1 and IRF8/ICSBP, possibly via its association with CK2 and PKD kinases. [...] 
+ZCCHC24	0.458169014084507	0.908668197474168	c 117,168,239	990538: zinc finger, CCHC domain containing 24
+RAB5C	0.240140845070423	0.118197474167623	c 117,239,238	987674: RAB5C, member RAS oncogene family; Protein transport. Probably involved in vesicular traffic (By similarity)
+TSPAN31	0.249774647887324	0.676176808266361	c 239,191,117	978325: tetraspanin 31
+RBM17	0.346619718309859	0.28300803673938	c 117,117,239	992096: RNA binding motif protein 17; Splice factor that binds to the single stranded 3'AG at the exon/intron border and promotes its utilization in the second catalytic step. Involved in the regulation of alternative splicing and the utilization of cryptic splice sites. Promotes the utilization of a cryptic splice site created by the beta-110 mutation in the HBB gene. The resulting frameshift leads to sickle cell anemia
+ZFP14	0.79230985915493	0.371354764638347	c 239,237,117	980025: zinc finger protein 14 homolog (mouse); May be involved in transcriptional regulation
+CCNO	0.219352112676056	0.62451205510907	c 218,239,117	980762: cyclin O; Excises uracil residues from DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine
+GDF2	0.498225352112676	0.764006888633754	c 239,179,117	977692: growth differentiation factor 2; Could be involved in bone formation
+IDI1	0.346112676056338	0.929334098737084	c 117,117,239	992390: isopentenyl-diphosphate delta isomerase 1; Catalyzes the 1,3-allylic rearrangement of the homoallylic substrate isopentenyl (IPP) to its highly electrophilic allylic isomer, dimethylallyl diphosphate (DMAPP)
+EFHC2	0.0728169014084507	0.128530424799081	c 117,117,239	996533: EF-hand domain (C-terminal) containing 2
+FAM155A	0.102732394366197	0.0923650975889782	c 117,135,239	991306: family with sequence similarity 155, member A
+GPR20	0.787239436619718	0.0871986222732491	c 117,128,239	991679: G protein-coupled receptor 20; Orphan receptor with constitutive G(i) signaling activity that activate cyclic AMP
+PIP4K2A	0.214281690140845	0.0923650975889782	c 117,132,239	991427: phosphatidylinositol-5-phosphate 4-kinase, type II, alpha; Catalyzes the phosphorylation of phosphatidylinositol-5- phosphate on the fourth hydroxyl of the myo-inositol ring, to form phosphatidylinositol-4,5-biphosphate
+ZNF800	0.341549295774648	0.221526980482204	c 239,227,117	979676: zinc finger protein 800; May be involved in transcriptional regulation
+TWISTNB	0.640704225352113	0.268025258323766	c 239,138,117	976567: TWIST neighbor; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Component of RNA polymerase I which synthesizes ribosomal RNA precursors. Through its association with RRN3/TIF-IA may be involved in recruitment of Pol I to rDNA promoters
+RPL21	0.386169014084507	0.626061997703789	c 117,239,239	987718: ribosomal protein L21 pseudogene 28
+RTF1	0.412028169014085	0.300574052812859	c 117,117,239	992889: Rtf1, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae); Plays a role in transcription-coupled histone modification. Plays a role in regulation of transcription. Required for maximal induction of heat-shock genes (By similarity)
+CCT2	0.371464788732394	0.19052812858783	c 176,239,117	982130: chaperonin containing TCP1, subunit 2 (beta); Molecular chaperone; assist the folding of proteins upon ATP hydrolysis. Known to play a role, in vitro, in the folding of actin and tubulin
+ZBTB8OS	0.95	0.893168771526981	c 117,117,239	997986: zinc finger and BTB domain containing 8 opposite strand
+ZBTB10	0.620422535211268	0.0613662456946039	c 117,117,239	994674: zinc finger and BTB domain containing 10; May be involved in transcriptional regulation
+ZNF362	0.837943661971831	0.913834672789897	c 117,156,239	990781: zinc finger protein 362; May be involved in transcriptional regulation
+ARFIP1	0.416084507042254	0.495350172215844	c 191,239,117	981796: ADP-ribosylation factor interacting protein 1; Putative target protein of ADP-ribosylation factor
+POLD2	0.58087323943662	0.650344431687715	c 117,117,239	993523: polymerase (DNA directed), delta 2, regulatory subunit 50kDa; The function of the small subunit is not yet clear
+RPS5	0.462225352112676	0.557347876004593	c 0,178,157	975971: ribosomal protein S5
+UTY	0.667577464788732	0.593513203214696	c 117,239,176	985545: ubiquitously transcribed tetratricopeptide repeat gene, Y-linked; Histone demethylase (By similarity)
+ASPHD1	0.843521126760563	0.469517795637199	c 124,239,117	983659: aspartate beta-hydroxylase domain containing 1
+LRRC24	0.731971830985916	0.882835820895522	c 117,239,218	986789: leucine rich repeat containing 24
+RPL30	0.51343661971831	0.487083811710677	c 214,239,117	981025: ribosomal protein L30
+RSBN1L	0.569211267605634	0.872502870264064	c 117,239,194	986205: round spermatid basic protein 1-like
+ZNF319	0.199070422535211	0.257692307692308	c 178,239,117	982120: zinc finger protein 319; May be involved in transcriptional regulation
+PDAP1	0.741605633802817	0.293857634902411	c 239,141,117	976591: PDGFA associated protein 1; Enhances PDGFA-stimulated cell growth in fibroblasts, but inhibits the mitogenic effect of PDGFB (By similarity)
+MPPED1	0.78774647887324	0.0613662456946039	c 117,117,239	994750: metallophosphoesterase domain containing 1; May have metallophosphoesterase activity (in vitro) (By similarity)
+ACTG2	0.812591549295775	0.541848450057405	c 199,239,117	981563: actin, gamma 2, smooth muscle, enteric; Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells (By similarity)
+KCNG1	0.711690140845071	0.719058553386912	c 117,172,239	990385: potassium voltage-gated channel, subfamily G, member 1; Probable potassium channel subunit. May need to associate with another protein to form a functional channel. May modulate channel activity
+AP2S1	0.229492957746479	0.469517795637199	c 239,215,117	979149: adaptor-related protein complex 2, sigma 1 subunit; Component of the adaptor protein complex 2 (AP-2). Adaptor protein complexes function in protein Transport via Transport vesicles in different membrane traffic pathways. Adaptor protein complexes are vesicle coat components and appear to be involved in cargo selection and vesicle formation. AP-2 is involved in clathrin-dependent endocytosis in which cargo proteins are incorporated into vesicles surrrounded by clathrin (clathrin- coated vesicles, CCVs) which are destined for fusion with the early endosome. The clathrin lattice serves a [...] 
+STK38L	0.564140845070423	0.076865671641791	c 117,117,239	992832: serine/threonine kinase 38 like; Involved in the regulation of structural processes in differentiating and mature neuronal cells (By similarity)
+CA7	0.183859154929577	0.118197474167623	c 117,239,237	987671: carbonic anhydrase VII; Reversible hydration of carbon dioxide
+PPP1CA	0.279183098591549	0.381687715269805	c 117,239,166	985212: protein phosphatase 1, catalytic subunit, alpha isoform; Protein phosphatase 1 (PP1) is essential for cell division, and participates in the regulation of glycogen metabolism, muscle contractility and protein synthesis. Involved in regulation of ionic conductances and long-term synaptic plasticity. May play an important role in dephosphorylating substrates such as the postsynaptic density-associated Ca(2+)/calmodulin dependent protein kinase II
+SSR4	0.577323943661972	0.582663605051665	c 117,239,132	984258: signal sequence receptor, delta (translocon-associated protein delta); TRAP proteins are part of a complex whose function is to bind calcium to the ER membrane and thereby regulate the retention of ER resident proteins
+FLRT1	0.382112676056338	0.753673938002296	c 239,166,117	977554: fibronectin leucine rich transmembrane protein 1; May have a function in cell adhesion and/or receptor signaling
+TMEM163	0.219859154929577	0.722675086107922	c 220,239,117	980706: transmembrane protein 163
+CAPZB	0.604704225352113	0.719058553386912	c 117,137,239	991143: capping protein (actin filament) muscle Z-line, beta; F-actin-capping proteins bind in a Ca(2+)-independent manner to the fast growing ends of actin filaments (barbed end) thereby blocking the exchange of subunits at these ends. Unlike other capping proteins (such as gelsolin and severin), these proteins do not sever actin filaments
+MARCH3	0.179295774647887	0.330022962112514	c 142,239,117	983358: membrane-associated ring finger (C3HC4) 3; E3 ubiquitin-protein ligase which may be involved in endosomal trafficking. E3 ubiquitin ligases accept ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester and then directly transfer the ubiquitin to targeted substrates (By similarity)
+LARP6	0.512929577464789	0.820838117106774	c 179,239,117	982117: La ribonucleoprotein domain family, member 6
+RABL3	0.452591549295775	0.216360505166475	c 230,239,117	980229: RAB, member of RAS oncogene family-like 3
+TMTC2	0.50887323943662	0.149196326061998	c 117,239,158	984808: transmembrane and tetratricopeptide repeat containing 2
+RAB14	0.703070422535211	0.562514351320322	c 117,147,239	990881: RAB14, member RAS oncogene family; May be involved in vesicular trafficking and neurotransmitter release
+PRMT8	0.0925915492957746	0.567680826636051	c 117,117,239	992583: protein arginine methyltransferase 8; Membrane-associated arginine methyltransferase that can both catalyze the formation of omega-N monomethylarginine (MMA) and asymmetrical dimethylarginine (aDMA). Able to mono- and dimethylate EWS protein; however its precise role toward EWS remains unclear as it still interacts with fully methylated EWS
+TMCC1	0.488591549295775	0.867336394948335	c 117,239,172	985349: transmembrane and coiled-coil domain family 1
+PPP6C	0.579352112676056	0.349138920780712	c 117,117,239	995199: protein phosphatase 6, catalytic subunit; Catalytic subunit of protein phospatase 6 (PP6). PP6 is a component of a signaling pathway regulating cell cycle progression in response to IL-2 receptor stimulation. N-terminal domain restricts G1 to S phase progression in cancer cells, in part through control of cyclin D1. Downregulates MAP3K7 kinase activation of the IL-1 signaling pathway by dephosphorylation of MAP3K7
+TM9SF1	0.50887323943662	0.226693455797933	c 239,205,117	978799: transmembrane 9 superfamily member 1; Plays an essential role in autophagy
+TYMS	0.552478873239437	0.754190585533869	c 117,239,128	984083: thymidylate synthetase
+CAPZA2	0.650845070422535	0.712342135476464	c 117,207,239	989135: capping protein (actin filament) muscle Z-line, alpha 2; F-actin-capping proteins bind in a Ca(2+)-independent manner to the fast growing ends of actin filaments (barbed end) thereby blocking the exchange of subunits at these ends. Unlike other capping proteins (such as gelsolin and severin), these proteins do not sever actin filaments
+KCNJ4	0.83287323943662	0.567680826636051	c 152,239,117	983024: potassium inwardly-rectifying channel, subfamily J, member 4; This receptor is controlled by G proteins. Inward rectifier potassium channels are characterized by a greater tendency to allow potassium to flow into the cell rather than out of it. Their voltage dependence is regulated by the concentration of extracellular potassium; as external potassium is raised, the voltage range of the channel opening shifts to more positive voltages. The inward rectification is mainly due to the blockage of outward current by internal magnesium. Can be blocked by extracellular barium and cesium (By s [...] 
+ARF5	0.40087323943662	0.540298507462687	c 255,0,0	975673: ADP-ribosylation factor 5; GTP-binding protein that functions as an allosteric activator of the cholera toxin catalytic subunit, an ADP- ribosyltransferase. Involved in protein trafficking; may modulate vesicle budding and uncoating within the Golgi apparatus
+HN1L	0.756816901408451	0.557347876004593	c 239,173,117	977617: hematological and neurological expressed 1-like
+TMEM106B	0.321267605633803	0.13886337543054	c 117,239,200	986474: transmembrane protein 106B
+PSMB3	0.761380281690141	0.438518943742824	c 239,147,117	976667: proteasome (prosome, macropain) subunit, beta type, 3; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity
+GSG1L	0.843014084507042	0.0613662456946039	c 117,117,239	995492: GSG1-like
+ZC3H15	0.690901408450704	0.326406429391504	c 117,239,217	986732: zinc finger CCCH-type containing 15; Protects DRG1 from proteolytic degradation (By similarity)
+ITM2A	0.90943661971831	0.712342135476464	c 117,157,239	990754: integral membrane protein 2A
+SGPP1	0.678225352112676	0.484500574052813	c 239,170,117	977580: sphingosine-1-phosphate phosphatase 1; Has enzymatic activity against both sphingosine 1 phosphate (S1P) and dihydro-S1P. Regulates intracellular and extracellular S1P levels
+EIF4A2	0.495183098591549	0.714925373134328	c 117,239,169	985253: microRNA 1248; ATP-dependent RNA helicase which is a subunit of the eIF4F complex involved in cap recognition and is required for mRNA binding to ribosome. In the current model of translation initiation, eIF4A unwinds RNA secondary structures in the 5'-UTR of mRNAs which is necessary to allow efficient binding of the small ribosomal subunit, and subsequent scanning for the initiator codon
+SLC25A18	0.209718309859155	0.144029850746269	c 117,239,177	985556: solute carrier family 25 (mitochondrial carrier), member 18; Involved in the transport of glutamate across the inner mitochondrial membrane. Glutamate is cotransported with H(+)
+FAM19A4	0.457661971830986	0.815671641791045	c 195,239,117	981612: family with sequence similarity 19 (chemokine (C-C motif)-like), member A4
+HECA	0.264985915492958	0.903501722158439	c 117,196,239	989519: headcase homolog (Drosophila); May play an important role in some human cancers. May be part of the regulatory mechanism in the development of epithelial tube networks such as the circulatory system and lungs
+KRTAP10-3	0.731464788732394	0.076865671641791	c 117,117,239	993196: keratin associated protein 10-3; In the hair cortex, hair keratin intermediate filaments are embedded in an interfilamentous matrix, consisting of hair keratin-associated proteins (KRTAP), which are essential for the formation of a rigid and resistant hair shaft through their extensive disulfide bond cross-linking with abundant cysteine residues of hair keratins. The matrix proteins include the high- sulfur and high-glycine-tyrosine keratins
+RAB6A	0.843521126760563	0.846670493685419	c 123,239,117	983660: RAB6A, member RAS oncogene family; Protein transport. Regulator of membrane traffic from the Golgi apparatus towards the endoplasmic reticulum (ER). Has a low GTPase activity
+SH3BP4	0.43230985915493	0.882835820895522	c 117,239,220	986912: SH3-domain binding protein 4; Functions in transferrin receptor internalization at the plasma membrane through a cargo-specific control of clathrin- mediated endocytosis
+CNIH2	0.620422535211268	0.164695752009185	c 134,239,117	983463: cornichon homolog 2 (Drosophila); Involved in the transport and maturation of proteins (By similarity)
+SYNGR2	0.275633802816901	0.650344431687715	c 239,149,117	976698: synaptogyrin 2
+FBXO33	0.204140845070423	0.195694603903559	c 190,239,117	981992: F-box protein 33; Substrate recognition component of a (SKP1-CUL1-F-box protein) E3 ubiquitin-protein ligase complex which mediates the ubiquitination and subsequent proteasomal degradation of target proteins. Probably recognizes and binds to phosphorylated target proteins. Recognizes YBX1 (By similarity)
+YWHAZ	0.235070422535211	0.169862227324914	c 138,239,117	983399: tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide; Adapter protein implicated in the regulation of a large spectrum of both general and specialized signaling pathway. Binds to a large number of partners, usually by recognition of a phosphoserine or phosphothreonine motif. Binding generally results in the modulation of the activity of the binding partner
+UBE2V1	0.376535211267606	0.882835820895522	c 117,239,222	986923: ubiquitin-conjugating enzyme E2 variant 1
+NPM3	0.904366197183099	0.361021814006889	c 117,180,239	990059: nucleophosmin/nucleoplasmin 3; May act as a chaperone
+CHMP2A	0.330901408450704	0.702525832376579	c 127,239,117	983518: chromatin modifying protein 2A; Probable core component of the endosomal sorting required for transport complex III (ESCRT-III) which is involved in multivesicular bodies (MVBs) formation and sorting of endosomal cargo proteins into MVBs. MVBs contain intraluminal vesicles (ILVs) that are generated by invagination and scission from the limiting membrane of the endosome and mostly are delivered to lysosomes enabling degradation of membrane proteins, such as stimulated growth factor receptors, lysosomal enzymes and lipids. The MVB pathway appears to require the sequential function of ESC [...] 
+DEGS2	0.649323943661972	0.433352468427095	c 150,239,117	983103: degenerative spermatocyte homolog 2, lipid desaturase (Drosophila); Bifunctional enzyme which acts as both a sphingolipid delta(4)-desaturase and a sphingolipid C4-hydroxylase (By similarity)
+ZBED4	0.305549295774648	0.676176808266361	c 239,121,117	976188: zinc finger, BED-type containing 4
+ST6GAL2	0.898788732394366	0.133696900114811	c 117,205,239	989222: ST6 beta-galactosamide alpha-2,6-sialyltranferase 2; Transfers sialic acid from the donor of substrate CMP- sialic acid to galactose containing acceptor substrates. Has alpha-2,6-sialyltransferase activity toward oligosaccharides that have the Gal-beta-1,4-GlcNAc sequence at the non-reducing end of their carbohydrate groups, but it has weak or no activities toward glycoproteins and glycolipids
+ZBTB44	0.245211267605634	0.0613662456946039	c 117,117,239	996569: zinc finger and BTB domain containing 44; May be involved in transcriptional regulation (By similarity)
+AHCYL1	0.904366197183099	0.293857634902411	c 117,181,239	989993: adenosylhomocysteinase-like 1
+UNC119B	0.179295774647887	0.893168771526981	c 117,239,234	987577: unc-119 homolog B (C. elegans)
+LEO1	0.458169014084507	0.293857634902411	c 174,239,117	982177: Leo1, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae); The PAF1 complex is a multifunctional complex. The PAF1 complex interacts with POLR2A. May be involved in both initiation and elongation, histone methylation and RNA processing. Overexpression of LEO1 induces cell growth arrest and premature senescence of fibroblasts
+PAN3	0.219859154929577	0.650344431687715	c 219,239,117	980745: PAN3 poly(A) specific ribonuclease subunit homolog (S. cerevisiae); Functions in cytoplasmic mRNA decay. As part of the Pan nuclease complex, recruits polyadenylate-binding protein which in turn stimulates PAN2 nuclease activity
+ATG13	0.843521126760563	0.164695752009185	c 128,239,117	983507: KIAA0652; Autophagy factor required for autophagosome formation. Target of the TOR kinase signaling pathway that regulates autophagy through the control of the phosphorylation status of ATG13 and ULK1, and the regulation of the ATG13-ULK1-RB1CC1 complex
+PCGF5	0.665549295774648	0.831171067738232	c 117,239,209	986592: polycomb group ring finger 5; Probable component of some Polycomb group (PcG) multiprotein complex, a complex required to maintain the transcriptionally repressive state of some genes (By similarity)
+UBE2R2	0.457661971830986	0.7898392652124	c 239,214,117	979136: ubiquitin-conjugating enzyme E2R 2; Catalyzes the covalent attachment of ubiquitin to other proteins. May be involved in degradation of katenin
+RILPL1	0.675690140845071	0.0871986222732491	c 117,129,239	991483: Rab interacting lysosomal protein-like 1; Does not regulate lysosomal morphology and distribution (By similarity)
+C9orf172	0.898788732394366	0.0561997703788749	c 117,117,239	997441: Putative uncharacterized protein ENSP00000412388 
+GPRIN1	0.188929577464789	0.443685419058553	c 155,239,117	982943: G protein regulated inducer of neurite outgrowth 1; May be involved in neurite outgrowth (By similarity)
+ZBTB2	0.858732394366197	0.335189437428243	c 117,239,161	984907: zinc finger and BTB domain containing 2; May be involved in transcriptional regulation
+DRG1	0.737042253521127	0.319690011481056	c 117,239,181	985645: developmentally regulated GTP binding protein 1; May play a role in cell proliferation, differentiation and death
+ZNF382	0.214281690140845	0.748507462686567	c 203,239,117	981392: zinc finger protein 382; Functions as a sequence-specific transcriptional repressor (By similarity)
+ZFAND3	0.802450704225352	0.345522388059701	c 211,239,117	981036: zinc finger, AN1-type domain 3
+MAGEB6	0.0976619718309859	0.154362801377727	c 117,117,239	991935: melanoma antigen family B, 6
+ATG14	0.50887323943662	0.252525832376579	c 239,169,117	977574: KIAA0831
+SPTY2D1	0.564647887323944	0.128530424799081	c 117,239,213	986640: SPT2, Suppressor of Ty, domain containing 1 (S. cerevisiae)
+YTHDF1	0.903859154929577	0.386854190585534	c 117,179,239	990104: YTH domain family, member 1
+HIVEP1	0.437380281690141	0.0871986222732491	c 117,117,239	991995: human immunodeficiency virus type I enhancer binding protein 1; This protein specifically binds to the DNA sequence 5'- GGGACTTTCC-3' which is found in the enhancer elements of numerous viral promoters such as those of SV40, CMV, or HIV-1. In addition, related sequences are found in the enhancer elements of a number of cellular promoters, including those of the class I MHC, interleukin-2 receptor, and interferon-beta genes. It may act in T-cell activation. Involved in activating HIV-1 gene expression. Isoform 2 and isoform 3 also bind to the IPCS (IRF1 and p53 common sequence) DNA sequ [...] 
+APOO	0.270056338028169	0.0871986222732491	c 117,117,239	991965: apolipoprotein O; Promotes cholesterol efflux from macrophage cells. Detected in HDL, LDL and VLDL. Secreted by a microsomal triglyceride transfer protein (MTTP)-dependent mechanism, probably as a VLDL-associated protein that is subsequently transferred to HDL. May be involved in myocardium-protective mechanisms against lipid accumulation
+RANBP6	0.245211267605634	0.57284730195178	c 239,198,117	978488: RAN binding protein 6; May function in nuclear protein import as nuclear transport receptor
+PSMA5	0.772028169014085	0.469001148105626	c 239,239,117	980092: proteasome (prosome, macropain) subunit, alpha type, 5; The proteasome is a multicatalytic proteinase complex which is characterized by its ability to cleave peptides with Arg, Phe, Tyr, Leu, and Glu adjacent to the leaving group at neutral or slightly basic pH. The proteasome has an ATP-dependent proteolytic activity (By similarity)
+UBE2M	0.310619718309859	0.24735935706085	c 239,185,117	977929: ubiquitin-conjugating enzyme E2M pseudogene 1; Accepts the ubiquitin-like protein NEDD8 from the UBA3- NAE1 E1 complex and catalyzes its covalent attachment to other proteins. The specific interaction with the E3 ubiquitin ligase RBX1, but not RBX2, suggests that the RBX1-UBE2M complex neddylates specific target proteins, such as CUL1, CUL2, CUL3 and CUL4. Involved in cell proliferation
+TAF11	0.316197183098592	0.522732491389208	c 117,211,239	989044: TAF11 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 28kDa; Core TAFII present in both of the previously described TFIID species which either lack or contain TAFII30 (TFIID alpha and TFIID beta respectively)
+
